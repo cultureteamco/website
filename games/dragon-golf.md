@@ -20,15 +20,11 @@ video:
   poster: dragon-golf-poster.jpg
 goes-well-with:
   - title: Keep Talking and Nobody Explodes
-    image: keep-talking-and-nobody-explodes.jpg
-    link: games/keep-talking-and-nobody-explodes.html
   - title: Cards vs Conflict
-    image: cards-vs-conflict.jpg
-    link: games/cards-vs-conflict.html
 ---
 {{>panel-header}}
 
-{{>game-overview this}}
+{{>game-overview}}
 
 #### Takeaways
 
@@ -58,6 +54,6 @@ AAMI’s team were one of the first to try this game out and they still hold the
 
 #### Goes well with these games
 
-{{>thumbnails goes-well-with}}
+{{>goes-well-with}}
 
 {{>panel-footer}}

@@ -13,7 +13,6 @@ outcomes:
   - conflict resolution
 thumbnail: blue-blue-blue-thumbnail.jpg
 video:
-  source: 
   poster: blue-blue-blue-poster.jpg
 goes-well-with:
   - title: Hidden Agendas
@@ -21,7 +20,7 @@ goes-well-with:
 ---
 {{>panel-header}}
 
-{{>game-overview this}}
+{{>game-overview}}
 
 #### Takeaways
 

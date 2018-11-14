@@ -19,15 +19,10 @@ video:
   poster: betting-blocks-poster.jpg
 goes-well-with:
   - title: Playdough & Mime
-    image: playdough-and-mime-thumbnail.jpg
-    link: games/playdough-and-mime.html
-  - title: Comic Transparencies
-    image: comic-transparencies-thumbnail.jpg
-    link: games/comic-transparencies.html
 ---
 {{>panel-header}}
 
-{{>game-overview this}}
+{{>game-overview}}
 
 #### Takeaways
 
@@ -55,6 +50,6 @@ When we played Playdough Towers with the South Australian Red Cross, two teams a
 
 #### Goes well with these games
 
-{{>thumbnails goes-well-with}}
+{{>goes-well-with}}
 
 {{>panel-footer}}

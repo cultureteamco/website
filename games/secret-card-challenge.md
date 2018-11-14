@@ -17,16 +17,11 @@ video:
   poster: secret-challenge-cards-poster.jpg
 goes-well-with:
   - title: Yes but, yes and
-    image: yes-but-yes-and-thumbnail.jpg
-    link: games/yes-but-yes-and.html
   - title: Happy Salmon
-    image: happy-salmon-thumbnail.jpg
-    link: game/happy-salmon-thumbnail.html
-
 ---
 {{>panel-header}}
 
-{{>game-overview this}}
+{{>game-overview}}
 
 #### Takeaways
 
@@ -52,6 +47,6 @@ between one another to see how many they could achieve.
 
 #### Goes well with these games
 
-{{>thumbnails goes-well-with}}
+{{>goes-well-with}}
 
 {{>panel-footer}}

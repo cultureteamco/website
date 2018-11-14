@@ -9,16 +9,14 @@ outcomes:
   - trust
 thumbnail: cards-vs-conflict-thumbnail.jpg
 video:
-  source: Cards vs Conflict loop.mp4
-  poster: Cards vs Conflict loop.jpg
+  source: cards-vs-conflict-loop.mp4
+  poster: cards-vs-conflict-loop.jpg
 goes-well-with:
   - title: Happy Salmon
-    image: happy-salmon.jpg
-    link: games/happy-salmon.html
 ---
 {{>panel-header}}
 
-{{>game-overview this}}
+{{>game-overview}}
 
 #### Takeaways
 
@@ -54,6 +52,6 @@ one option to respond to conflict, to exploring multiple options in conjunction 
 
 #### Goes well with these games
 
-{{>thumbnails goes-well-with}}
+{{>goes-well-with}}
 
 {{>panel-footer}}

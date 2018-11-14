@@ -21,15 +21,11 @@ video:
   poster: yes-but-yes-and-poster.jpg
 goes-well-with:
   - title: Hidden Agendas
-    image: hidden-agendas.jpg
-    link: games/hidden-agendas.html
   - title: Playdough & Mime
-    image: playdough-mime.jpg
-    link: games/playdough-mime.html
 ---
 {{>panel-header}}
 
-{{>game-overview this}}
+{{>game-overview}}
 
 #### Takeaways
 
@@ -62,6 +58,6 @@ We ran a communication workshop for Uni SA’s ‘Aspire’ program, in which st
 
 #### Goes well with these games
 
-{{>thumbnails goes-well-with}}
+{{>goes-well-with}}
 
 {{>panel-footer}}

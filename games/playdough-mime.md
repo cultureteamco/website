@@ -24,12 +24,10 @@ video:
   poster: playdough-mime-poster.jpg
 goes-well-with:
   - title: Yes, But... Yes, And...
-    image: yes-but-yes-and.jpg
-    link: games/yes-but-yes-and.html
 ---
 {{>panel-header}}
 
-{{>game-overview this}}
+{{>game-overview}}
 
 #### Takeaways
 
@@ -62,6 +60,6 @@ South Australia’s Office for Digital Government wanted all of their staff to c
 
 #### Goes well with these games
 
-{{>thumbnails goes-well-with}}
+{{>goes-well-with}}
 
 {{>panel-footer}}

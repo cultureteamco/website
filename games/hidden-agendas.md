@@ -21,15 +21,11 @@ video:
   poster: hidden-agendas-poster.jpg
 goes-well-with:
   - title: Blue Blue Blue
-    image: blue-blue-blue.jpg
-    link: games/blue-blue-blue.html
   - title: Cards vs. Conflict
-    image: cards-vs-conflict.jpg
-    link: games/cards-vs-conflict.html
 ---
 {{>panel-header}}
 
-{{>game-overview this}}
+{{>game-overview}}
 
 #### Takeaways
 
@@ -62,6 +58,6 @@ assumptions and this game helped them to examine their thinking in a new way.
 
 #### Goes well with these games
 
-{{>thumbnails goes-well-with}}
+{{>goes-well-with}}
 
 {{>panel-footer}}

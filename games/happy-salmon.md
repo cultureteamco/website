@@ -18,15 +18,11 @@ video:
 goes-well-with:
   - title: Betting Blocks
     subtitle: Leadership Edition
-    image: betting-blocks-thumbnail.jpg
-    link: games/betting-blocks.html
   - title: Keep Talking
-    image: keep-talking-thumbnail.jpg
-    link: games/keep-talking.html
 ---
 {{>panel-header}}
 
-{{>game-overview this}}
+{{>game-overview}}
 
 #### Takeaways
 
@@ -59,6 +55,6 @@ more games in a 30 minute session!
 
 #### Goes well with these games
 
-{{>thumbnails goes-well-with}}
+{{>goes-well-with}}
 
 {{>panel-footer}}

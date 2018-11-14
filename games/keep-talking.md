@@ -22,15 +22,10 @@ video:
   poster: betting-blocks-poster.jpg
 goes-well-with:
   - title: Blue Blue Blue
-    image: blue-blue-blue-thumbnail.jpg
-    link: games/happy-salmon.html
-  - title: Praise Party
-    image:
-    link: #
 ---
 {{>panel-header}}
 
-{{>game-overview this}}
+{{>game-overview}}
 
 #### Takeaways
 
@@ -61,6 +56,6 @@ With the South Australian Office for Digital Government, two large, leadership e
 
 #### Goes well with these games
 
-{{>thumbnails goes-well-with}}
+{{>goes-well-with}}
 
 {{>panel-footer}}
