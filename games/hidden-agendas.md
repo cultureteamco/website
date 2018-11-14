@@ -28,7 +28,7 @@ goes-well-with:
   - name: blue-blue-blue
   - name: cards-vs-conflict
 ---
-{{>panel-header}}
+{{>column-start}}
 
 ## Hidden Agendas
 
@@ -48,9 +48,9 @@ feeling more positive and confident than the reasoning we imagine in our head.
 * Custom Situations
   * Have us tailor scenarios that are relevant to your workplace.
 
-{{>panel-footer}}
+{{>column-end}}
 
-{{>panel-header highlight=true}}
+{{>column-start highlight=true}}
 
 {{>video}}
 
@@ -67,4 +67,4 @@ assumptions and this game helped them to examine their thinking in a new way.
 
 {{>goes-well-with}}
 
-{{>panel-footer}}
+{{>column-end}}

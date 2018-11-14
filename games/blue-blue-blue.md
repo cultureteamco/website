@@ -23,7 +23,7 @@ goes-well-with:
   - name: hidden-agendas
   - name: yes-but-yes-and
 ---
-{{>panel-header}}
+{{>column-start}}
 
 ## Blue Blue Blue
 
@@ -35,9 +35,9 @@ When we’re upset with someone, they know it. They can tell from our body langu
 
 [Ask us about the other outcomes related to this game](#)
 
-{{>panel-footer}}
+{{>column-end}}
 
-{{>panel-header highlight=true}}
+{{>column-start highlight=true}}
 
 {{>video}}
 
@@ -51,4 +51,4 @@ Many of the students of the Graduate Career Readiness course at Adelaide Uni wer
 
 {{>goes-well-with}}
 
-{{>panel-footer}}
+{{>column-end}}

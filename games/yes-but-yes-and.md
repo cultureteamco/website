@@ -28,7 +28,7 @@ goes-well-with:
   - name: hidden-agendas
   - name: playdough-mime
 ---
-{{>panel-header}}
+{{>column-start}}
 
 ## Yes, But...Yes, And...
 
@@ -51,9 +51,9 @@ outcomes; some takeaway message include:
 * Yes, And SOLER
   * In this extension option, we introduce SOLER methodology; use your body language to encourage others to open up to you.
 
-{{>panel-footer}}
+{{>column-end}}
 
-{{>panel-header highlight=true}}
+{{>column-start highlight=true}}
 
 {{>video}}
 
@@ -67,4 +67,4 @@ We ran a communication workshop for Uni SA’s ‘Aspire’ program, in which st
 
 {{>goes-well-with}}
 
-{{>panel-footer}}
+{{>column-end}}

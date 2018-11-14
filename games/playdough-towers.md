@@ -25,7 +25,7 @@ video:
 goes-well-with:
   - name: playdough-mime
 ---
-{{>panel-header}}
+{{>column-start}}
 
 ## Playdough Towers
 
@@ -43,9 +43,9 @@ some takeaway message include:
 
 [Ask us about the other outcomes related to this game](#)
 
-{{>panel-footer}}
+{{>column-end}}
 
-{{>panel-header highlight=true}}
+{{>column-start highlight=true}}
 
 {{>video}}
 
@@ -59,4 +59,4 @@ When we played Playdough Towers with the South Australian Red Cross, two teams a
 
 {{>goes-well-with}}
 
-{{>panel-footer}}
+{{>column-end}}

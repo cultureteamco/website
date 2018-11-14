@@ -26,7 +26,7 @@ goes-well-with:
   - name: happy-salmon
     extension: Selfless Mode
 ---
-{{>panel-header}}
+{{>column-start}}
 
 ## Betting Blocks
 
@@ -44,9 +44,9 @@ some takeaway message include:
 
 [Ask us about the other outcomes related to this game](#)
 
-{{>panel-footer}}
+{{>column-end}}
 
-{{>panel-header highlight=true}}
+{{>column-start highlight=true}}
 
 {{>video}}
 
@@ -69,4 +69,4 @@ amazed at how close one team’s tower almost got to the roof!
 
 {{>goes-well-with}}
 
-{{>panel-footer}}
+{{>column-end}}

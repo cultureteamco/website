@@ -25,7 +25,7 @@ goes-well-with:
     extension: Leadership Edition
   - name: keep-talking-and-nobody-explodes
 ---
-{{>panel-header}}
+{{>column-start}}
 
 ## Happy Salmon
 
@@ -45,9 +45,9 @@ shared between participants breaks down barriers quickly, boosts endorphins, and
 * Relay mode
   * We celebrate diversity by making players look outside of their teams for matching handshakes.
 
-{{>panel-footer}}
+{{>column-end}}
 
-{{>panel-header highlight=true}}
+{{>column-start highlight=true}}
 
 {{>video}}
 
@@ -64,4 +64,4 @@ more games in a 30 minute session!
 
 {{>goes-well-with}}
 
-{{>panel-footer}}
+{{>column-end}}

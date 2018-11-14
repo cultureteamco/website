@@ -24,7 +24,7 @@ goes-well-with:
   - name: yes-but-yes-and
   - name: happy-salmon
 ---
-{{>panel-header}}
+{{>column-start}}
 
 ## Secret Card Challenge
 
@@ -38,9 +38,9 @@ from the session, or exploring lessons further through other sources.
 
 [Ask us about the other outcomes related to this game](#)
 
-{{>panel-footer}}
+{{>column-end}}
 
-{{>panel-header highlight=true}}
+{{>column-start highlight=true}}
 
 {{>video}}
 
@@ -56,4 +56,4 @@ between one another to see how many they could achieve.
 
 {{>goes-well-with}}
 
-{{>panel-footer}}
+{{>column-end}}

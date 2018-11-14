@@ -30,7 +30,7 @@ video:
 goes-well-with:
   - name: yes-but-yes-and
 ---
-{{>panel-header}}
+{{>column-start}}
 
 ## Playdough & Mime
 
@@ -53,9 +53,9 @@ some takeaway message include:
 * Custom Problems
   * Teams explore solutions to a real-world challenge that the organisation is facing.
 
-{{>panel-footer}}
+{{>column-end}}
 
-{{>panel-header highlight=true}}
+{{>column-start highlight=true}}
 
 {{>video}}
 
@@ -69,4 +69,4 @@ South Australia’s Office for Digital Government wanted all of their staff to c
 
 {{>goes-well-with}}
 
-{{>panel-footer}}
+{{>column-end}}

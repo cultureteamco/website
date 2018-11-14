@@ -27,7 +27,7 @@ goes-well-with:
   - name: keep-talking-and-nobody-explodes
   - name: cards-vs-conflict
 ---
-{{>panel-header}}
+{{>column-start}}
 
 ## Dragon Golf
 
@@ -47,9 +47,9 @@ Every session is different. This game can open up discussion for numerous differ
 * Sabotage Rounds
   * The stakes get higher and the game gets harder. Are you on the right team?
 
-{{>panel-footer}}
+{{>column-end}}
 
-{{>panel-header highlight=true}}
+{{>column-start highlight=true}}
 
 {{>video}}
 
@@ -63,4 +63,4 @@ AAMI’s team were one of the first to try this game out and they still hold the
 
 {{>goes-well-with}}
 
-{{>panel-footer}}
+{{>column-end}}

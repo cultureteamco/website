@@ -28,7 +28,7 @@ video:
 goes-well-with:
   - name: blue-blue-blue
 ---
-{{>panel-header}}
+{{>column-start}}
 
 ## Keep Talking and Nobody Explodes
 
@@ -45,9 +45,9 @@ Every session is different. This game can open up discussion for numerous differ
 
 [Ask us about the other outcomes related to this game](#)
 
-{{>panel-footer}}
+{{>column-end}}
 
-{{>panel-header highlight=true}}
+{{>column-start highlight=true}}
 
 {{>video}}
 
@@ -65,4 +65,4 @@ With the South Australian Office for Digital Government, two large, leadership e
 
 {{>goes-well-with}}
 
-{{>panel-footer}}
+{{>column-end}}

@@ -19,7 +19,7 @@ video:
 goes-well-with:
   - name: happy-salmon
 ---
-{{>panel-header}}
+{{>column-start}}
 
 ## Cards vs Conflict
 
@@ -43,9 +43,9 @@ some takeaway message include:
 * Close to Home
   * Custom situation cards invoke a deeper level of vulnerability, trust, self-reflection and accountability.
 
-{{>panel-footer}}
+{{>column-end}}
 
-{{>panel-header highlight=true}}
+{{>column-start highlight=true}}
 
 {{>video}}
 
@@ -61,4 +61,4 @@ one option to respond to conflict, to exploring multiple options in conjunction 
 
 {{>goes-well-with}}
 
-{{>panel-footer}}
+{{>column-end}}
