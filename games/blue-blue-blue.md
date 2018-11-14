@@ -1,5 +1,10 @@
 ---
-title: Blue Blue Blue
+name: blue-blue-blue
+title: Blue Blue Blue Game - Interpersonal Skills Games | Culture Team
+keywords:
+  - Blue Blue Blue Game
+  - Interpersonal Skills Games
+meta: The Blue Blue Blue game from Culture Team is an interpersonal skills game designed to show the importance of communication in the workplace. Try it today!
 synopsis: 93% of our communication tells others that something is wrong. It takes the last 7% to explain how to fix it.
 duration: 5 mins
 quote: It was quick, basic, and fun. Everyone could individualise their answer and it allowed everyone to participate.
@@ -15,10 +20,12 @@ thumbnail: blue-blue-blue-thumbnail.jpg
 video:
   poster: blue-blue-blue-poster.jpg
 goes-well-with:
-  - title: Hidden Agendas
-  - title: Yes, But... Yes, And...
+  - name: hidden-agendas
+  - name: yes-but-yes-and
 ---
 {{>panel-header}}
+
+## Blue Blue Blue
 
 {{>game-overview}}
 

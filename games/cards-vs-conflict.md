@@ -1,5 +1,10 @@
 ---
-title: Cards vs Conflict
+name: cards-vs-conflict
+title: Card vs. Conflict - Team Building Activities With Cards | Culture Team
+keywords:
+  - Card vs. Conflict
+  - Team Building Activities With Cards
+meta: Culture Team's Card vs. Conflict game allows players to use cards to combat highly challenging circumstances. Try our team building activities with cards today!
 synopsis: Players use cards to combat highly challenging circumstances and explore different approaches to reaching the best outcome.
 duration: 45 - 60 mins
 gameplay: 
@@ -12,9 +17,11 @@ video:
   source: cards-vs-conflict-loop.mp4
   poster: cards-vs-conflict-loop.jpg
 goes-well-with:
-  - title: Happy Salmon
+  - name: happy-salmon
 ---
 {{>panel-header}}
+
+## Cards vs Conflict
 
 {{>game-overview}}
 

@@ -1,5 +1,10 @@
 ---
-title: Happy Salmon
+name: happy-salmon
+title: Happy Salmon Game - Team Building Icebreakers | Culture Team
+keywords: 
+  - Happy Salmon Game
+  - Team Building Icebreakers
+meta: Culture Team's Happy Salmon Game is a simple, ultra-fast, very silly card game that is a great team building icebreaker. Contact us today to find out more! 
 synopsis: A simple ultra-fast, very silly card game.
 duration: 15-30 mins
 quote: I loved that we just dove straight into the session and didn’t have the awkward intros at the start.
@@ -16,11 +21,13 @@ video:
   source: happy-salmon-loop.mp4
   poster: happy-salmon-poster.jpg
 goes-well-with:
-  - title: Betting Blocks
-    subtitle: Leadership Edition
-  - title: Keep Talking
+  - name: betting-blocks
+    extension: Leadership Edition
+  - name: keep-talking-and-nobody-explodes
 ---
 {{>panel-header}}
+
+## Happy Salmon
 
 {{>game-overview}}
 

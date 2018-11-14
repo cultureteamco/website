@@ -1,5 +1,10 @@
 ---
-title: Hidden Agendas
+name: hidden-agendas
+title: Hidden Agendas Game  - Role Play Activities - Adelaide | Culture Team
+keywords:
+  - Hidden Agendas Game
+  - Role Play Activities
+meta: Culture Team's Hidden Agendas Game is one of our team building activities with cards & incorporates role play activities that ensure a fun experience for all.
 synopsis: We can’t possible know what someone else is thinking unless we talk to them about it - but that’s not always possible.
 duration: 15 - 30 mins
 quote: I learnt that we shouldn’t be too quick to judge, and when we feel like something is wrong or off, we should ask instead of assuming.
@@ -20,10 +25,12 @@ video:
   source: hidden-agendas-loop.mp4
   poster: hidden-agendas-poster.jpg
 goes-well-with:
-  - title: Blue Blue Blue
-  - title: Cards vs. Conflict
+  - name: blue-blue-blue
+  - name: cards-vs-conflict
 ---
 {{>panel-header}}
+
+## Hidden Agendas
 
 {{>game-overview}}
 

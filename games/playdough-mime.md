@@ -1,5 +1,10 @@
 ---
-title: Playdough & Mime
+name: playdough-mime
+title: Playdough & Mime Game - Communication Skills Activities | Culture Team
+keywords:
+  - Playdough & Mime Game
+  - Communication Skills Activities
+meta: Culture Team have a range of communication skills activities including the Playdough & Mime game. Solve a problem with the power of playdough today!
 synopsis: Solve a problem with the power of playdough, think about the core them, then present it... but there’s a catch.
 duration: 20-45 mins
 quote: The game that bonded me with my team the most and was my favourite game of the session.
@@ -23,9 +28,11 @@ video:
   source: playdough-mime-loop.mp4
   poster: playdough-mime-poster.jpg
 goes-well-with:
-  - title: Yes, But... Yes, And...
+  - name: yes-but-yes-and
 ---
 {{>panel-header}}
+
+## Playdough & Mime
 
 {{>game-overview}}
 

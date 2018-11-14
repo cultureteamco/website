@@ -1,5 +1,10 @@
 ---
-title: Playdough Towers
+name: playdough-towers
+title: Playdough Towers Game - Innovation Exercises For Teams | Culture Team
+keywords:
+  - Playdough Towers Game
+  - Innovation Exercises For Teams
+meta: Culture Team have a range of innovation exercises for teams. Try our Playdough Towers game & see planners compete against doers to create the tallest tower.
 synopsis: Planners compete against doers to create the tallest tower.
 duration: 20 - 45 minutes
 quote: I really liked the reveal of the two different conditions.
@@ -18,9 +23,11 @@ thumbnail: playdough-towers-thumbnail.jpg
 video:
   poster: betting-blocks-poster.jpg
 goes-well-with:
-  - title: Playdough & Mime
+  - name: playdough-mime
 ---
 {{>panel-header}}
+
+## Playdough Towers
 
 {{>game-overview}}
 

@@ -1,5 +1,10 @@
 ---
-title: Keep Talking and Nobody Explodes
+name: keep-talking-and-nobody-explodes
+title: Keep Talking & Nobody Explodes - Communication Activities | Culture Team
+keywords:
+  - Keep Talking & Nobody Explodes
+  - Communication Activities
+meta: The Keep Talking & Nobody Explodes game from Culture Team incorporates communication activities, problem solving, & computer simulations to ignite team bonding.
 synopsis: Bomb defusal is a lot easier when you have friends helping you out!
 duration: 45-90 mins
 quote: I felt confused and annoyed at first when my team mates couldn’t give me the answers for how to defuse the bomb. I didn’t understand what was going on at their side and I thought, ‘they only have to read from paper!’ However, when I changed to their side, I realised that it’s not so easy, so I understood their situation. I definitely felt closer to my teammates by the end of the activity, as we all had common goals that we worked towards.
@@ -21,9 +26,11 @@ video:
   source: betting-blocks-loop.mp4
   poster: betting-blocks-poster.jpg
 goes-well-with:
-  - title: Blue Blue Blue
+  - name: blue-blue-blue
 ---
 {{>panel-header}}
+
+## Keep Talking and Nobody Explodes
 
 {{>game-overview}}
 

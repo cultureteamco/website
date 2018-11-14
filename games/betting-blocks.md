@@ -1,5 +1,10 @@
 ---
-title: Betting Blocks
+name: betting-blocks
+title: Betting Blocks Game - Improve Employee Productivity | Culture Team
+keywords:
+  - Betting Blocks Game
+  - Improve Employee Productivity
+meta: Culture Team design games to improve employee productivity. Try our Betting Blocks game &see teams find a balance to achieve the game's goals.
 synopsis: Teams find a balance between goals that are easily achievable and goals that help them grow.
 duration: 30 mins
 quote: I’ve got a 5-year-old at home, so any chance to play with a bit of Lego is great! Building some Lego towers, setting some goals and then seeing what we could stretch ourselves on to do better the second and third time around, I thought was really great fun and quite meaningful as well.
@@ -18,10 +23,12 @@ video:
   source: betting-blocks-loop.mp4
   poster: betting-blocks-poster.jpg
 goes-well-with:
-  - title: Happy Salmon
-    subtitle: Selfless Mode
+  - name: happy-salmon
+    extension: Selfless Mode
 ---
 {{>panel-header}}
+
+## Betting Blocks
 
 {{>game-overview}}
 

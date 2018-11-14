@@ -1,5 +1,10 @@
 ---
-title: Dragon Golf
+name: dragon-golf
+title: Dragon Golf Game - Communication Games For Adults | Culture Team
+keywords:
+  - Dragon Golf Game
+  - Communication Games For Adults
+meta: Culture Team have developed communication games for adults to help ignite workplace team culture. Try our chaotic mini-golf game Dragon Golf today!
 synopsis: Summon the coordination of a champion dragon-boat racing team in this chaotic mini-golf game!
 duration: 15-30 mins
 quote: Teamwork definitely improved after chatter amongst the group increased.
@@ -19,10 +24,12 @@ video:
   source: dragon-golf-loop.mp4
   poster: dragon-golf-poster.jpg
 goes-well-with:
-  - title: Keep Talking and Nobody Explodes
-  - title: Cards vs Conflict
+  - name: keep-talking-and-nobody-explodes
+  - name: cards-vs-conflict
 ---
 {{>panel-header}}
+
+## Dragon Golf
 
 {{>game-overview}}
 

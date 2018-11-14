@@ -1,5 +1,10 @@
 ---
-title: Yes, But... Yes, And...
+name: yes-but-yes-and
+title: Yes, But...Yes, And... - Interpersonal Communication Games | Culture Team
+keywords:
+  - Yes, But...Yes, And...
+  - Interpersonal Communication Games
+meta: The Yes, But...Yes, And... game from Culture Team is an interpersonal communication game created to help employees open up to conversations at work!
 synopsis: Everyday conversations can open up the possibilities of new ideas. Instead of shutting down an idea with a ‘but’ try opening it up with a ‘yes and’.
 duration: 5-10 mins
 quote: It was quick, basic, and fun. Everyone could individualise their answer and it allowed everyone to participate.
@@ -20,10 +25,12 @@ video:
   source: yes-but-yes-and-loop.mp4
   poster: yes-but-yes-and-poster.jpg
 goes-well-with:
-  - title: Hidden Agendas
-  - title: Playdough & Mime
+  - name: hidden-agendas
+  - name: playdough-mime
 ---
 {{>panel-header}}
+
+## Yes, But...Yes, And...
 
 {{>game-overview}}
 
