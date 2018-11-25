@@ -1,30 +1,29 @@
 ---
-name: rspca
+name: rspca-sa
 title:
 keywords:
 meta:
 sector: non-profit
 video:
-  source: rspca-loop.mp4
-  poster: rspca-poster.jpg
+  source: rspca-sa/teaser-854x480.mp4
+  image: rspca-sa/teaser-854x480.jpg
+  width: 854
+  height: 480
 session:
-  - name: happy-salmon
-  - name: yes-but-yes-and
-  - name: playdough-mime
-  - name: keep-talking-and-nobody-explodes
+  - game: happy-salmon
+  - game: yes-but-yes-and
+  - game: playdough-mime
+  - game: keep-talking-and-nobody-explodes
     extension: Leadership Extension
-  - name: dragon-golf
+  - game: dragon-golf
 ---
 {{>column-start}}
 
 ## RSPCA
 
-RSPCA SA’s Inspection and Rescue team is really two discreet teams formed into one. Half of
-the team confront animal abusers on a day-to-day basis, while the other half work to re-home
-animals. As one would expect, it takes very different dispositions for each of these roles.
+RSPCA SA’s Inspection and Rescue team is really two discreet teams formed into one. Half of the team confront animal abusers on a day-to-day basis, while the other half work to re-home animals. As one would expect, it takes very different dispositions for each of these roles.
 
-The goal for our session was to give team members a sense of togetherness, to help bond them
-as individuals and friends, and erode the divide between the distinct roles.
+The goal for our session was to give team members a sense of togetherness, to help bond them as individuals and friends, and erode the divide between the distinct roles.
 
 {{>column-end}}
 

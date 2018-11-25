@@ -1,6 +1,7 @@
 ---
 name: playdough-towers
 title: Playdough Towers Game - Innovation Exercises For Teams | Culture Team
+short-title: Playdough Towers
 keywords:
   - Playdough Towers Game
   - Innovation Exercises For Teams
@@ -19,9 +20,14 @@ outcomes:
   - productivity
   - innovation
   - agility
-thumbnail: playdough-towers-thumbnail.jpg
+thumbnail: 
+  image: playdough-towers/thumbnail-256x256.jpg
+  height: 256
+  width: 256
 video:
-  poster: betting-blocks-poster.jpg
+  image: playdough-towers/teaser-720x480.jpg
+  width: 720
+  height: 480
 goes-well-with:
   - name: playdough-mime
 ---
@@ -31,10 +37,11 @@ goes-well-with:
 
 {{>game-overview}}
 
+{{>quotes}}
+
 #### Takeaways
 
-Every session is different. This game can open up discussion for numerous different outcomes;
-some takeaway message include:
+Every session is different. This game can open up discussion for numerous different outcomes; some takeaway message include:
 
 * Rapid Prototyping
   * When we give planners plenty of time, they use it to discuss, plan and then build. Doers get far less time, so all they can do is build. Then they do it again. And again. Building and trying out different options creates a far better result than simply building the tower once. The doers win this game every time.

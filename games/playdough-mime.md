@@ -1,6 +1,7 @@
 ---
 name: playdough-mime
 title: Playdough & Mime Game - Communication Skills Activities | Culture Team
+short-title: Playdough & Mime
 keywords:
   - Playdough & Mime Game
   - Communication Skills Activities
@@ -23,10 +24,15 @@ outcomes:
   - teamwork
   - productivity
   - leadership
-thumbnail: playdough-mime-thumbnail.jpg
+thumbnail: 
+  image: playdough-mime/thumbnail-256x256.jpg
+  height: 256
+  width: 256
 video:
-  source: playdough-mime-loop.mp4
-  poster: playdough-mime-poster.jpg
+  source: playdough-mime/teaser-720x404.mp4
+  image: playdough-mime/teaser-720x404.jpg
+  width: 720
+  height: 404
 goes-well-with:
   - name: yes-but-yes-and
 ---
@@ -36,10 +42,11 @@ goes-well-with:
 
 {{>game-overview}}
 
+{{>quotes}}
+
 #### Takeaways
 
-Every session is different. This game can open up discussion for numerous different outcomes;
-some takeaway message include:
+Every session is different. This game can open up discussion for numerous different outcomes; some takeaway message include:
 
 * Genuine Engagement
   * At the end of the exercise, every person is able to explain their idea - they’re even willing to join their team in presenting it as a mime! The way we get this level of engagement right through to the end of a project is to ensure everyone has an equal contribution at the very beginning. Players experience service-leadership through this game.

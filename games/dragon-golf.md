@@ -1,6 +1,7 @@
 ---
 name: dragon-golf
 title: Dragon Golf Game - Communication Games For Adults | Culture Team
+short-title: Dragon Golf
 keywords:
   - Dragon Golf Game
   - Communication Games For Adults
@@ -19,10 +20,15 @@ outcomes:
   - trust
   - commitment
   - leadership
-thumbnail: dragon-golf-thumbnail.jpg
+thumbnail: 
+  image: dragon-golf/thumbnail-256x256.jpg
+  height: 256
+  width: 256
 video:
-  source: dragon-golf-loop.mp4
-  poster: dragon-golf-poster.jpg
+  source: dragon-golf/teaser-720x404.mp4
+  image: dragon-golf/teaser-720x404.jpg
+  width: 720
+  height: 404
 goes-well-with:
   - name: keep-talking-and-nobody-explodes
   - name: cards-vs-conflict
@@ -32,6 +38,8 @@ goes-well-with:
 ## Dragon Golf
 
 {{>game-overview}}
+
+{{>quotes}}
 
 #### Takeaways
 

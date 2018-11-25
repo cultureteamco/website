@@ -1,6 +1,7 @@
 ---
 name: hidden-agendas
 title: Hidden Agendas Game  - Role Play Activities - Adelaide | Culture Team
+short-title: Hidden Agendas
 keywords:
   - Hidden Agendas Game
   - Role Play Activities
@@ -20,10 +21,15 @@ outcomes:
   - conflict resolution
   - communication
   - trust
-thumbnail: hidden-agendas-thumbnail.jpg
+thumbnail: 
+  image: hidden-agendas/thumbnail-256x256.jpg
+  height: 256
+  width: 256
 video:
-  source: hidden-agendas-loop.mp4
-  poster: hidden-agendas-poster.jpg
+  source: hidden-agendas/teaser-720x404.mp4
+  image: hidden-agendas/teaser-720x404.jpg
+  width: 720
+  height: 404
 goes-well-with:
   - name: blue-blue-blue
   - name: cards-vs-conflict
@@ -34,12 +40,11 @@ goes-well-with:
 
 {{>game-overview}}
 
+{{>quotes}}
+
 #### Takeaways
 
-When someone gives us a reaction we weren’t expecting, it’s easy to assume the worst. This
-game is about examining the difference between the assumptions we make and the true
-motivations of the people we’re interacting with. More often than not, the truth will leave us
-feeling more positive and confident than the reasoning we imagine in our head.
+When someone gives us a reaction we weren’t expecting, it’s easy to assume the worst. This game is about examining the difference between the assumptions we make and the true motivations of the people we’re interacting with. More often than not, the truth will leave us feeling more positive and confident than the reasoning we imagine in our head.
 
 [Ask us about the other outcomes related to this game](#)
 
@@ -56,10 +61,7 @@ feeling more positive and confident than the reasoning we imagine in our head.
 
 #### Case studies
 
-We ran a critical thinking workshop for the women in business group, Her Future Moves.
-Participants who had been apprehensive, stepped out of their comfort zones and came away
-feeling confident. Some remarked that they had surprised themselves with their initial
-assumptions and this game helped them to examine their thinking in a new way.
+We ran a critical thinking workshop for the women in business group, Her Future Moves. Participants who had been apprehensive, stepped out of their comfort zones and came away feeling confident. Some remarked that they had surprised themselves with their initial assumptions and this game helped them to examine their thinking in a new way.
 
 [See full case study](#)
 

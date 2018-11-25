@@ -1,21 +1,29 @@
 ---
-name: blankspace
+name: blank-space
 title:
 keywords:
 meta:
 sector: other
 gallery:
-  - blankspace-gallery-image-0.jpg
-  - blankspace-gallery-image-1.jpg
-  - blankspace-gallery-image-2.jpg
-  - blankspace-gallery-image-3.jpg
+  - image: blank-space/teaser-image-0-720x480.jpg
+    width: 720
+    height: 480
+  - image: blank-space/teaser-image-1-720x480.jpg
+    width: 720
+    height: 480
+  - image: blank-space/teaser-image-2-720x480.jpg
+    width: 720
+    height: 480
+  - image: blank-space/teaser-image-3-720x480.jpg
+    width: 720
+    height: 480
 session:
   - title: Fake Nametags
-    desc: It’s nice to get to know one another, but can be a little awkward when you feel like you should already know someone’s name. In this game, we give participants the opportunity to introduce themselves - or - the fictional character they’ve decided to be today. It’s a lighthearted way to give everyone in the room a name and a voice.
-  - name: yes-but-yes-and
-  - name: playdough-mime
+    summary: It’s nice to get to know one another, but can be a little awkward when you feel like you should already know someone’s name. In this game, we give participants the opportunity to introduce themselves - or - the fictional character they’ve decided to be today. It’s a lighthearted way to give everyone in the room a name and a voice.
+  - game: yes-but-yes-and
+  - game: playdough-mime
   - title: Telestrations Race
-    desc: For a group of creative artists, what better communication challenge than speed drawing?
+    summary: For a group of creative artists, what better communication challenge than speed drawing?
 ---
 {{>column-start}}
 

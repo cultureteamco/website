@@ -1,6 +1,7 @@
 ---
 name: keep-talking-and-nobody-explodes
 title: Keep Talking & Nobody Explodes - Communication Activities | Culture Team
+short-title: Keep Talking & Nobody Explodes
 keywords:
   - Keep Talking & Nobody Explodes
   - Communication Activities
@@ -21,10 +22,15 @@ outcomes:
   - problem solving
   - teamwork
   - feedback
-thumbnail: keep-talking-thumbnail.jpg
+thumbnail: 
+  image: keep-talking-and-nobody-explodes/thumbnail-256x256.jpg
+  width: 256
+  height: 256
 video:
-  source: betting-blocks-loop.mp4
-  poster: betting-blocks-poster.jpg
+  source: keep-talking-and-nobody-explodes/teaser-720x404.mp4
+  image: keep-talking-and-nobody-explodes/teaser-720x404.jpg
+  width: 720
+  height: 404
 goes-well-with:
   - name: blue-blue-blue
 ---
@@ -33,6 +39,8 @@ goes-well-with:
 ## Keep Talking and Nobody Explodes
 
 {{>game-overview}}
+
+{{>quotes}}
 
 #### Takeaways
 

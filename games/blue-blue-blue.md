@@ -1,6 +1,7 @@
 ---
 name: blue-blue-blue
 title: Blue Blue Blue Game - Interpersonal Skills Games | Culture Team
+short-title: Blue Blue Blue
 keywords:
   - Blue Blue Blue Game
   - Interpersonal Skills Games
@@ -16,9 +17,14 @@ gameplay:
 outcomes:
   - communication
   - conflict resolution
-thumbnail: blue-blue-blue-thumbnail.jpg
+thumbnail: 
+  image: blue-blue-blue/thumbnail-256x256.jpg
+  width: 256
+  height: 256
 video:
-  poster: blue-blue-blue-poster.jpg
+  image: blue-blue-blue/teaser-720x480.jpg
+  width: 720
+  height: 480
 goes-well-with:
   - name: hidden-agendas
   - name: yes-but-yes-and
@@ -28,6 +34,8 @@ goes-well-with:
 ## Blue Blue Blue
 
 {{>game-overview}}
+
+{{>quotes}}
 
 #### Takeaways
 

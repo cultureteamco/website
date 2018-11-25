@@ -1,6 +1,7 @@
 ---
 name: betting-blocks
 title: Betting Blocks Game - Improve Employee Productivity | Culture Team
+short-title: Betting Blocks
 keywords:
   - Betting Blocks Game
   - Improve Employee Productivity
@@ -18,10 +19,15 @@ outcomes:
   - goal setting
   - productivity
   - agility
-thumbnail: betting-blocks-thumbnail.jpg
+thumbnail: 
+  image: betting-blocks/thumbnail-256x256.jpg
+  height: 256
+  width: 256
 video:
-  source: betting-blocks-loop.mp4
-  poster: betting-blocks-poster.jpg
+  source: betting-blocks/teaser-720x404.mp4
+  image: betting-blocks/teaser-720x404.jpg
+  width: 720
+  height: 404
 goes-well-with:
   - name: happy-salmon
     extension: Selfless Mode
@@ -32,10 +38,11 @@ goes-well-with:
 
 {{>game-overview}}
 
+{{>quotes}}
+
 #### Takeaways
 
-Every session is different. This game can open up discussion for numerous different outcomes;
-some takeaway message include:
+Every session is different. This game can open up discussion for numerous different outcomes; some takeaway message include:
 
 * Break it down
   * Staring a huge goal in the face can be intimidating, but when you break it down into short-term goals it’s easier to track your progress, measure your success, reflect between sprints, and adjust your end goal or your process to suit.
@@ -52,16 +59,11 @@ some takeaway message include:
 
 #### Case studies
 
-Teamgage are a busy, growing, agile startup. We designed this game especially for them to
-help with the feeling of workload overwhelm. Examining their approach to the game led them to
-think about how to better structure their internal processes so that they can reach their big,
-hairy, audacious goals!
+Teamgage are a busy, growing, agile startup. We designed this game especially for them to help with the feeling of workload overwhelm. Examining their approach to the game led them to think about how to better structure their internal processes so that they can reach their big, hairy, audacious goals!
 
 [See full case study](#)
 
-Optus are all about being brave and curious. We played Betting Blocks with their frontline teams
-to challenge them to see what was possible, risk failure and really stretch themselves. We were
-amazed at how close one team’s tower almost got to the roof!
+Optus are all about being brave and curious. We played Betting Blocks with their frontline teams to challenge them to see what was possible, risk failure and really stretch themselves. We were amazed at how close one team’s tower almost got to the roof!
 
 [See full case study](#)
 

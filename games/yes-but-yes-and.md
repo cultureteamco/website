@@ -1,6 +1,7 @@
 ---
 name: yes-but-yes-and
-title: Yes, But...Yes, And... - Interpersonal Communication Games | Culture Team
+title: Yes, But... Yes, And... - Interpersonal Communication Games | Culture Team
+short-title: Yes, But... Yes, And...
 keywords:
   - Yes, But...Yes, And...
   - Interpersonal Communication Games
@@ -20,24 +21,30 @@ outcomes:
   - teamwork
   - productivity
   - resilience
-thumbnail: yes-but-yes-and-thumbnail.jpg
+thumbnail: 
+  image: yes-but-yes-and/thumbnail-256x256.jpg
+  width: 256
+  height: 256
 video:
-  source: yes-but-yes-and-loop.mp4
-  poster: yes-but-yes-and-poster.jpg
+  source: yes-but-yes-and/teaser-720x404.mp4
+  image: yes-but-yes-and/teaser-720x404.jpg
+  width: 720
+  height: 404
 goes-well-with:
   - name: hidden-agendas
   - name: playdough-mime
 ---
 {{>column-start}}
 
-## Yes, But...Yes, And...
+## Yes, But... Yes, And...
 
 {{>game-overview}}
 
+{{>quotes}}
+
 #### Takeaways
 
-Every session is different. This game can open up discussion for numerous different
-outcomes; some takeaway message include:
+Every session is different. This game can open up discussion for numerous different outcomes; some takeaway message include:
 
 * Teamwork
   * Every day of your adult lives you've played 'yes, but'. It's a polite way of saying no; of coming up with an excuse not to do something instead of just giving it a go. This game is about reframing your mindset and challenging yourself to see problems as opportunities.

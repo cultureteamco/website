@@ -5,15 +5,19 @@ keywords: lifetime support authority, team building
 meta: Culture Team worked with the South Australian Lifetime Support Authority to create a sense of team togetherness.
 sector: corporate
 gallery:
-  - lsa-gallery-image-0
-  - lsa-gallery-image-1
+  - image: lsa/teaser-image-0-720x480.jpg
+    width: 720
+    height: 480
+  - image: lsa/teaser-image-1-720x480.jpg
+    width: 720
+    height: 480
 session:
-  - name: happy-salmon
-  - name: happy-salmon
+  - game: happy-salmon
+  - game: happy-salmon
     extension: Selfless Extension
-  - name: keep-talking-and-nobody-explodes
+  - game: keep-talking-and-nobody-explodes
     extension: Leadership Extension
-  - name: betting-blocks
+  - game: betting-blocks
 ---
 {{>column-start}}
 
