@@ -4,6 +4,9 @@ title:
 keywords:
 meta:
 sector: corporate
+categories:
+  - cat-all
+  - cat-corporate
 video:
   source: optus/teaser-854x480.mp4
   image: optus/teaser-854x480.jpg
@@ -17,7 +20,7 @@ session:
 ---
 {{>column-start}}
 
-## Optus
+## {{short-title}}
 
 The Adelaide team has consistently topped Optus’ national employee engagement scores. With a strong desire for good workplace culture and a structure in which to achieve it, working with this team is an absolute pleasure!
 

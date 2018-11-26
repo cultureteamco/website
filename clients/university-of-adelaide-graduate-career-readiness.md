@@ -1,9 +1,13 @@
 ---
 name: university-of-adelaide-graduate-career-readiness
 title:
+short-title: University of Adelaide
 keywords:
 meta:
 sector: education
+categories:
+  - cat-all
+  - cat-education
 gallery:
   - image: university-of-adelaide-graduate-career-readiness/teaser-image-0-720x480.jpg
     width: 720
@@ -26,7 +30,7 @@ session:
 ---
 {{>column-start}}
 
-## University of Adelaide
+## {{short-title}}
 
 Melissa teaches the Graduate Career Readiness Course at The University of Adelaide. She often uses team building at the start of a semester to quickly bring the students together and gain an understanding of the process of teamwork. For it to be fun is a bonus, but it’s really important that it feels purposeful for the students, so that they can learn the importance of these interpersonal skills for their future careers and explore how to develop them.
 

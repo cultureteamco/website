@@ -17,6 +17,12 @@ gameplay:
 outcomes:
   - communication
   - conflict resolution
+categories:
+  - cat-all
+  - cat-communication
+  - cat-trust
+  - cat-conflict-resolution
+  - cat-empathy
 thumbnail: 
   image: blue-blue-blue/thumbnail-256x256.jpg
   width: 256
@@ -31,7 +37,7 @@ goes-well-with:
 ---
 {{>column-start}}
 
-## Blue Blue Blue
+## {{short-title}}
 
 {{>game-overview}}
 

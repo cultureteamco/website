@@ -20,6 +20,10 @@ outcomes:
   - productivity
   - innovation
   - agility
+categories:
+  - cat-all
+  - cat-innovation
+  - cat-productivity
 thumbnail: 
   image: playdough-towers/thumbnail-256x256.jpg
   height: 256
@@ -33,7 +37,7 @@ goes-well-with:
 ---
 {{>column-start}}
 
-## Playdough Towers
+## {{short-title}}
 
 {{>game-overview}}
 

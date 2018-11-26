@@ -17,6 +17,13 @@ outcomes:
   - fun
   - icebreaking
   - trust
+categories:
+  - cat-all
+  - cat-communication
+  - cat-trust
+  - cat-empathy
+  - cat-productivity
+  - cat-focus
 thumbnail: 
   image: happy-salmon/thumbnail-256x256.jpg
   width: 256
@@ -33,7 +40,7 @@ goes-well-with:
 ---
 {{>column-start}}
 
-## Happy Salmon
+## {{short-title}}
 
 {{>game-overview}}
 

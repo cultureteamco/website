@@ -19,6 +19,10 @@ outcomes:
   - goal setting
   - productivity
   - agility
+categories:
+  - cat-all
+  - cat-productivity
+  - cat-leadership
 thumbnail: 
   image: betting-blocks/thumbnail-256x256.jpg
   height: 256
@@ -34,7 +38,7 @@ goes-well-with:
 ---
 {{>column-start}}
 
-## Betting Blocks
+## {{short-title}}
 
 {{>game-overview}}
 

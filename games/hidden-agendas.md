@@ -21,6 +21,12 @@ outcomes:
   - conflict resolution
   - communication
   - trust
+categories:
+  - cat-all
+  - cat-communication
+  - cat-trust
+  - cat-conflict-resolution
+  - cat-empathy
 thumbnail: 
   image: hidden-agendas/thumbnail-256x256.jpg
   height: 256
@@ -36,7 +42,7 @@ goes-well-with:
 ---
 {{>column-start}}
 
-## Hidden Agendas
+## {{short-title}}
 
 {{>game-overview}}
 

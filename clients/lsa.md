@@ -1,9 +1,13 @@
 ---
 name: lsa
 title: Lifetime Support Authority | Culture Team
+short-title: Lifetime Support Authority
 keywords: lifetime support authority, team building
 meta: Culture Team worked with the South Australian Lifetime Support Authority to create a sense of team togetherness.
 sector: corporate
+categories:
+  - cat-all
+  - cat-corporate
 gallery:
   - image: lsa/teaser-image-0-720x480.jpg
     width: 720
@@ -21,7 +25,7 @@ session:
 ---
 {{>column-start}}
 
-## Lifetime Support Authority
+## {{short-title}}
 
 The Lifetime Support Authority provides treatment, care and support for people who have sustained very serious injuries in a motor vehicle accident, regardless of fault. The team has scaled tremendously fast and, with a commitment to culture, they wanted to ensure that employee engagement, happiness and teamwork would scale at an equivalent speed. 
 

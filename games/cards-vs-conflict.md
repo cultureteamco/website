@@ -13,6 +13,12 @@ gameplay:
 outcomes:
   - conflict resolution
   - trust
+categories:
+  - cat-all
+  - cat-communication
+  - cat-trust
+  - cat-conflict-resolution
+  - cat-empathy
 thumbnail: 
   image: cards-vs-conflict/thumbnail-256x256.jpg
   width: 256
@@ -27,7 +33,7 @@ goes-well-with:
 ---
 {{>column-start}}
 
-## Cards vs Conflict
+## {{short-title}}
 
 {{>game-overview}}
 

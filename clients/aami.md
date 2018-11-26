@@ -1,9 +1,13 @@
 ---
 name: aami
 title:
+short-title: AAMI
 keywords:
 meta:
 sector: corporate
+categories:
+  - cat-all
+  - cat-corporate
 gallery:
   - image: aami/teaser-image-0-720x480.jpg
     width: 720
@@ -23,7 +27,7 @@ session:
 ---
 {{>column-start}}
 
-## AAMI
+## {{short-title}}
 
 This particular team at AAMI in Adelaide had only been established for 18 months. Some people had worked together for a long time, while other people were fairly new. The majority of the group are claims managers, who help customers directly. They all rely on sharing knowledge, giving each other advice and solving problems collaboratively.
 

@@ -21,6 +21,12 @@ outcomes:
   - teamwork
   - productivity
   - resilience
+categories:
+  - cat-all
+  - cat-communication
+  - cat-trust
+  - cat-innovation
+  - cat-productivity
 thumbnail: 
   image: yes-but-yes-and/thumbnail-256x256.jpg
   width: 256
@@ -36,7 +42,7 @@ goes-well-with:
 ---
 {{>column-start}}
 
-## Yes, But... Yes, And...
+## {{short-title}}
 
 {{>game-overview}}
 

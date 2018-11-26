@@ -1,9 +1,13 @@
 ---
 name: rspca-sa
 title:
+short-title: RSPCA SA
 keywords:
 meta:
 sector: non-profit
+categories:
+  - cat-all
+  - cat-non-profit
 video:
   source: rspca-sa/teaser-854x480.mp4
   image: rspca-sa/teaser-854x480.jpg
@@ -19,7 +23,7 @@ session:
 ---
 {{>column-start}}
 
-## RSPCA
+## {{short-title}}
 
 RSPCA SA’s Inspection and Rescue team is really two discreet teams formed into one. Half of the team confront animal abusers on a day-to-day basis, while the other half work to re-home animals. As one would expect, it takes very different dispositions for each of these roles.
 

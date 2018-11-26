@@ -1,9 +1,13 @@
 ---
 name: blank-space
 title:
+short-title: Blankspace
 keywords:
 meta:
 sector: other
+categories:
+  - cat-all
+  - cat-other
 gallery:
   - image: blank-space/teaser-image-0-720x480.jpg
     width: 720
@@ -27,7 +31,7 @@ session:
 ---
 {{>column-start}}
 
-## Blankspace
+## {{short-title}}
 
 BlankSpace is a coworking space for visual creatives. The collective of freelancers at BlankSpace wanted an event to kick off their end of year Christmas party. A session with Culture Team would also be a great excuse to get to know each other better and encourage some friendly competition. The focus for the session would be community building, healthy rivalry, creativity, and above all else, fun!
 

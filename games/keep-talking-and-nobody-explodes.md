@@ -17,6 +17,13 @@ other-quotes:
 gameplay: 
   - simulation
   - instruction
+categories:
+  - cat-all
+  - cat-communication
+  - cat-empathy
+  - cat-productivity
+  - cat-leadership
+  - cat-focus
 outcomes:
   - communication
   - problem solving
@@ -36,7 +43,7 @@ goes-well-with:
 ---
 {{>column-start}}
 
-## Keep Talking and Nobody Explodes
+## {{short-title}}
 
 {{>game-overview}}
 

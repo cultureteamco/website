@@ -24,6 +24,14 @@ outcomes:
   - teamwork
   - productivity
   - leadership
+categories:
+  - cat-all
+  - cat-communication
+  - cat-trust
+  - cat-innovation
+  - cat-empathy
+  - cat-productivity
+  - cat-leadership
 thumbnail: 
   image: playdough-mime/thumbnail-256x256.jpg
   height: 256
@@ -38,7 +46,7 @@ goes-well-with:
 ---
 {{>column-start}}
 
-## Playdough & Mime
+## {{short-title}}
 
 {{>game-overview}}
 

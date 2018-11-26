@@ -20,6 +20,11 @@ outcomes:
   - trust
   - commitment
   - leadership
+categories:
+  - cat-all
+  - cat-communication
+  - cat-trust
+  - cat-leadership
 thumbnail: 
   image: dragon-golf/thumbnail-256x256.jpg
   height: 256
@@ -35,7 +40,7 @@ goes-well-with:
 ---
 {{>column-start}}
 
-## Dragon Golf
+## {{short-title}}
 
 {{>game-overview}}
 

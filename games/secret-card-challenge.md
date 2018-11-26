@@ -18,6 +18,9 @@ outcomes:
   - fun
   - self-improvement
   - togetherness
+categories:
+  - cat-all
+  - cat-empathy
 thumbnail: 
   image: secret-card-challenge/thumbnail-256x256.jpg
   height: 256
@@ -32,7 +35,7 @@ goes-well-with:
 ---
 {{>column-start}}
 
-## Secret Card Challenge
+## {{short-title}}
 
 {{>game-overview}}
 

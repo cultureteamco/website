@@ -1,9 +1,13 @@
 ---
 name: odg
 title:
+short-title: Office for Digital Government
 keywords:
 meta:
 sector: government
+categories:
+  - cat-all
+  - cat-government
 gallery:
   - image: odg/teaser-image-0-720x480.jpg
     width: 720
@@ -27,7 +31,7 @@ session:
 ---
 {{>column-start}}
 
-## Office for Digital Government
+## {{short-title}}
 
 The Office for Digital Government invited us to be a part of their strategic planning day. They weren’t exactly sure what they wanted at first but once they’d learnt how our process works and that we’re able to slip into a quick meeting at short notice, we collaborated on a very meaningful set of outcomes.
 
