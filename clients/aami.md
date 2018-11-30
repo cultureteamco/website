@@ -33,6 +33,8 @@ This particular team at AAMI in Adelaide had only been established for 18 months
 
 We built a session around teamwork and collaboration, with a goal to help everyone get to know each other better and have some fun.
 
+{{>link link-contact-client="aami" text="Sounds like your team?"}}
+
 {{>column-end}}
 
 {{>column-start}}
@@ -59,7 +61,7 @@ They ran the session in one of our meeting rooms so we didn’t lose any time on
 
 Culture Team gave everyone secret challenge cards to take away with them. Now the cards are regularly swapped and staff are maintaining the spirit of fun.
 
-Sophie Miller, AAMI
+* Sophie Miller, AAMI
 
 {{>column-end}}
 
@@ -67,16 +69,16 @@ Sophie Miller, AAMI
 
 #### Participant Feedback
 
-I never get the chance to play with play dough so it was a great chance. Also, I loved being silly with my coworkers in a smaller table setting.
+{{>quote-start}}I never get the chance to play with play dough so it was a great chance. Also, I loved being silly with my coworkers in a smaller table setting.{{>quote-end}}
 
-I can apply this experience to finding solutions to customer enquiries and communicating more clearly
+{{>quote-start}}I can apply this experience to finding solutions to customer enquiries and communicating more clearly{{>quote-end}}
 
-I was apprehensive to start with. After the session I felt very happy and cheerful - it definitely brightened up my mood
+{{>quote-start}}I was apprehensive to start with. After the session I felt very happy and cheerful - it definitely brightened up my mood{{>quote-end}}
 
-I adopted a more positive mindset following the session
+{{>quote-start}}I adopted a more positive mindset following the session{{>quote-end}}
 
-I was happy seeing everyone participate, communicate and rely on one-another.
+{{>quote-start}}I was happy seeing everyone participate, communicate and rely on one-another.{{>quote-end}}
 
-I completed my secret challenge! I also saw another that I wanted to do. We have been swapping cards.
+{{>quote-start}}I completed my secret challenge! I also saw another that I wanted to do. We have been swapping cards.{{>quote-end}}
 
 {{>column-end}}

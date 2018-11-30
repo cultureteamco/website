@@ -47,7 +47,7 @@ goes-well-with:
 
 When we’re upset with someone, they know it. They can tell from our body language and our tone of voice. The only way to work through a conflict is to talk about it openly. Once we do that, it’s much simpler to overcome.
 
-[Ask us about the other outcomes related to this game](#)
+{{>link link-contact-game="blue-blue-blue" text="Ask us about the other outcomes related to this game."}}
 
 {{>column-end}}
 
@@ -59,7 +59,7 @@ When we’re upset with someone, they know it. They can tell from our body langu
 
 Many of the students of the Graduate Career Readiness course at Adelaide Uni were timid about direct communication, especially in regards to conflict. This demonstrated the importance of speaking openly and, when combined with ‘Yes, And.. (SOLER)’ and ‘Keep Talking and Nobody Explodes’, gave them the confidence to do so.
 
-[See full case study](#)
+{{>link link-client="university-of-adelaide-graduate-career-readiness" text="See full case study >"}}
 
 #### Goes well with these games
 

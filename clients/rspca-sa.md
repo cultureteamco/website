@@ -29,6 +29,8 @@ RSPCA SA’s Inspection and Rescue team is really two discreet teams formed into
 
 The goal for our session was to give team members a sense of togetherness, to help bond them as individuals and friends, and erode the divide between the distinct roles.
 
+{{>link link-contact-client="rspca-sa" text="Sounds like your team?"}}
+
 {{>column-end}}
 
 {{>column-start}}
@@ -51,7 +53,7 @@ The goal for our session was to give team members a sense of togetherness, to he
 
 We’ve got two separate teams who work as a big team, but they’re quite individual, so we wanted something that really brought them all together as one group. It was exciting to see how everyone got into the spirit of it and really just engaged with each other! It was a great afternoon!
 
-Andrea Lewis, Chief Inspector RSPCA SA
+* Andrea Lewis, Chief Inspector RSPCA SA
 
 {{>column-end}}
 
@@ -59,8 +61,8 @@ Andrea Lewis, Chief Inspector RSPCA SA
 
 #### Participant Feedback
 
-We now want to focus on being more openminded and accepting.
+{{>quote-start}}We now want to focus on being more openminded and accepting.{{>quote-end}}
 
-We work well as a team.
+{{>quote-start}}We work well as a team.{{>quote-end}}
 
 {{>column-end}}

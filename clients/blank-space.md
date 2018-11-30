@@ -35,6 +35,8 @@ session:
 
 BlankSpace is a coworking space for visual creatives. The collective of freelancers at BlankSpace wanted an event to kick off their end of year Christmas party. A session with Culture Team would also be a great excuse to get to know each other better and encourage some friendly competition. The focus for the session would be community building, healthy rivalry, creativity, and above all else, fun!
 
+{{>link link-contact-client="blank-space" text="Sounds like your team?"}}
+
 {{>column-end}}
 
 {{>column-start}}
@@ -57,7 +59,7 @@ BlankSpace is a coworking space for visual creatives. The collective of freelanc
 
 At BlankSpace we’re always looking for new ways to grease the wheels and get our team working together in positive new ways. Kelly and Jeff’s workshop delivered in just that way. It was also a great excuse for our team to let off some steam while strengthening our interpersonal skills. Kelly and Jeff made everything easy, delivering a workshop targeted to our office’s creative line of work. I was impressed with how their games and exercises tied into our ongoing projects. Everyone felt relaxed and upbeat by the end, a great way to end our year! I look forward to seeing how our team applies Kelly and Jeff’s problem solving tips in 2018 and we can’t wait to have them back.
 
-Bill Northcott, BlankSpace
+* Bill Northcott, BlankSpace
 
 {{>column-end}}
 
@@ -65,10 +67,10 @@ Bill Northcott, BlankSpace
 
 #### Participant Feedback
 
-The games encouraged creativity, but also quickly adapting to new team dynamics, which is a strength independent freelancers need.
+{{>quote-start}}The games encouraged creativity, but also quickly adapting to new team dynamics, which is a strength independent freelancers need.{{>quote-end}}
 
-We’re a creative group so the creative activities were great.
+{{>quote-start}}We’re a creative group so the creative activities were great.{{>quote-end}}
 
-The positive building on ideas in ‘Yes, and...’ was a takeaway for me
+{{>quote-start}}The positive building on ideas in ‘Yes, and...’ was a takeaway for me{{>quote-end}}
 
 {{>column-end}}

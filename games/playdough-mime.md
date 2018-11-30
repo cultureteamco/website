@@ -61,7 +61,7 @@ Every session is different. This game can open up discussion for numerous differ
 * Design Thinking
   * Players go through a process of rapid ideation (divergent thinking), discussion and refinement (convergent thinking) and presentation (testing). It’s a fast paced game to demonstrate the ease in which teams can explore and test ideas in an iterative process.
 
-[Ask us about the other outcomes related to this game](#)
+{{>link link-contact-game="playdough-mime" text="Ask us about the other outcomes related to this game."}}
 
 #### Extension options
 
@@ -78,7 +78,7 @@ Every session is different. This game can open up discussion for numerous differ
 
 South Australia’s Office for Digital Government wanted all of their staff to contribute to their strategic planning day by developing a pitch. To prepare them for the pitch, we played a customised version of Playdough & Mime with them. Teams used playdough to explore a user journey, they mapped out the core needs of the user, and then presented the value-proposition of the ODG from the perspective of that user. The game was so successful, leaders decided, that teams no longer needed to prepare a separate pitch.
 
-[See full case study](#)
+{{>link link-client="odg" text="See full case study >"}}
 
 #### Goes well with these games
 

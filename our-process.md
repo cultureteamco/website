@@ -12,16 +12,20 @@ video:
   width: 854
   height: 480
 ---
-{{>column-start full=true}}
+{{>column-start}}
 
 ## Our Process
-
-### We do team building differently...
-
-{{>video}}
 
 We bridge the gap between engaging fun and meaningful learning with our custom-tailored team building experiences. We learn about your team and use a human-centred design approach create brand-new, thoughtfully designed games sessions.
 
 Our short, on-site sessions maximise productivity and bring a fun, positive atmosphere into the office, transforming it into a space for team culture to flourish.
+
+{{>column-end}}
+
+{{>column-start}}
+
+#### We do team building differently...
+
+{{>video}}
 
 {{>column-end}}

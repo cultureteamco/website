@@ -38,6 +38,8 @@ As well as providing a basis for teamwork, we would enhance the interpersonal ca
 
 We developed a 3-hour session, consisting of nine games. Each game explored one or more of the essential interpersonal skills. After establishing trust, enthusiasm and a good basis for communication, the students delved into some more difficult games themed around problem solving and conflict resolution.
 
+{{>link link-contact-client="university-of-adelaide-graduate-career-readiness" text="Sounds like your team?"}}
+
 {{>column-end}}
 
 {{>column-start}}
@@ -64,7 +66,7 @@ Responsive to emails, great at following-up and checking that everything is on s
 
 Students reported it was the most fun they have had engaging in team games. This is important to me as, while necessary, team games are often met with a groan, not the case with the Culture Team activities.
 
-Melissa Connor, Academic Director Work Integrated Learning
+* Melissa Connor, Academic Director Work Integrated Learning
 
 {{>column-end}}
 
@@ -72,12 +74,12 @@ Melissa Connor, Academic Director Work Integrated Learning
 
 #### Participant Feedback
 
-We only just met today and I feel a lot more comfortable and am looking forward to returning to class tomorrow.
+{{>quote-start}}We only just met today and I feel a lot more comfortable and am looking forward to returning to class tomorrow.{{>quote-end}}
 
-The improv games really took me out of my comfort zone. I enjoyed it too. It’ll help me participate in things in real life that I’m not confident in.
+{{>quote-start}}The improv games really took me out of my comfort zone. I enjoyed it too. It’ll help me participate in things in real life that I’m not confident in.{{>quote-end}}
 
-It would be good in first year so people work better in assignment groups.
+{{>quote-start}}It would be good in first year so people work better in assignment groups.{{>quote-end}}
 
-It’s made me consciously acknowledge my thought behaviour and attitude when communicating with others and inspired me to be more enthusiastic and attentive in class activities.
+{{>quote-start}}It’s made me consciously acknowledge my thought behaviour and attitude when communicating with others and inspired me to be more enthusiastic and attentive in class activities.{{>quote-end}}
 
 {{>column-end}}

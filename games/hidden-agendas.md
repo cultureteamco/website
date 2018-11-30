@@ -52,7 +52,7 @@ goes-well-with:
 
 When someone gives us a reaction we weren’t expecting, it’s easy to assume the worst. This game is about examining the difference between the assumptions we make and the true motivations of the people we’re interacting with. More often than not, the truth will leave us feeling more positive and confident than the reasoning we imagine in our head.
 
-[Ask us about the other outcomes related to this game](#)
+{{>link link-contact-game="hidden-agendas" text="Ask us about the other outcomes related to this game."}}
 
 #### Extension options
 
@@ -69,7 +69,7 @@ When someone gives us a reaction we weren’t expecting, it’s easy to assume t
 
 We ran a critical thinking workshop for the women in business group, Her Future Moves. Participants who had been apprehensive, stepped out of their comfort zones and came away feeling confident. Some remarked that they had surprised themselves with their initial assumptions and this game helped them to examine their thinking in a new way.
 
-[See full case study](#)
+{{>link link-client="her-future-moves" text="See full case study >"}}
 
 #### Goes well with these games
 

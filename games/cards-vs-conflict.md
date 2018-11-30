@@ -47,6 +47,8 @@ Participants explore the difference between how they typically behave when theyâ
 
 Every session is different. This game can open up discussion for numerous different outcomes; some takeaway message include:
 
+{{>link link-contact-game="cards-vs-conflict" text="Ask us about the other outcomes related to this game."}}
+
 #### Extension options
 
 * Close to Home
@@ -62,7 +64,7 @@ Every session is different. This game can open up discussion for numerous differ
 
 When we played this game with the People, Talent and Culture division at the University of South Australia, players remarked on the difference it made when they switched between using one option to respond to conflict, to exploring multiple options in conjunction with one another. It led to an incredible discussion between participants across different groups - a topic that everyone was excited to sink their teeth into.
 
-[See full case study](#)
+{{>link link-client="university-of-south-australia-people-talent-and-culture" text="See full case study >"}}
 
 #### Goes well with these games
 

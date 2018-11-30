@@ -31,6 +31,8 @@ The Lifetime Support Authority provides treatment, care and support for people w
 
 We stepped in to help create a sense of togetherness and put focus on the importance of looking after one another.
 
+{{>link link-contact-client="lsa" text="Sounds like your team?"}}
+
 {{>column-end}}
 
 {{>column-start}}
@@ -57,7 +59,7 @@ We were able to hear Jeff and Kelly's observations about our high-performing tea
 
 People particularly liked the bomb game as it aligned with LSA's focus on technology. The general consensus was that it wasn't like any team building they had done before.
 
-Megan Taylor, Manager of Planning and Strategy
+* Megan Taylor, Manager of Planning and Strategy
 
 {{>column-end}}
 
@@ -65,7 +67,7 @@ Megan Taylor, Manager of Planning and Strategy
 
 #### Participant Feedback
 
-Everything can be fun when you bring the right attitude. Be open to learning and respect different skills.
+{{>quote-start}}Everything can be fun when you bring the right attitude. Be open to learning and respect different skills.{{>quote-end}}
 
 It’s nice to work with others we don’t get to normally work with.
 

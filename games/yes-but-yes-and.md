@@ -57,7 +57,7 @@ Every session is different. This game can open up discussion for numerous differ
 * Resilience
   * The reason role-play makes us so uncomfortable is because we don’t know what’s about to happen. Putting ourselves in a consequence-free situation where we can practice dealing with that discomfort builds resilience and better equips us to deal with the unexpected when it shows up in the real world.
 
-[Ask us about the other outcomes related to this game](#)
+{{>link link-contact-game="yes-but-yes-and" text="Ask us about the other outcomes related to this game."}}
 
 #### Extension options
 
@@ -74,7 +74,7 @@ Every session is different. This game can open up discussion for numerous differ
 
 We ran a communication workshop for Uni SA’s ‘Aspire’ program, in which students with a strong leadership record were encouraged to apply. Participants from many CALD backgrounds supported each other to step out of their comfort zones and explore the way we use language; with our words and our bodies.
 
-[See full case study](#)
+{{>link link-client="uni-sa-aspire" text="See full case study >"}}
 
 #### Goes well with these games
 

@@ -45,7 +45,7 @@ goes-well-with:
 
 This game is a physical takeaway and each person comes away with something different. Challenges may include doing favours for others, being social, having fun, practicing principles from the session, or exploring lessons further through other sources.
 
-[Ask us about the other outcomes related to this game](#)
+{{>link link-contact-game="secret-challenge-cards" text="Ask us about the other outcomes related to this game."}}
 
 {{>column-end}}
 
@@ -57,7 +57,7 @@ This game is a physical takeaway and each person comes away with something diffe
 
 There were a handful of staff at AAMI who considered themselves leaders of contribution to a vibrant workplace culture. They sped through their challenges and begun swapping them between one another to see how many they could achieve.
 
-[See full case study](#)
+{{>link link-client="aami" text="See full case study >"}}
 
 #### Goes well with these games
 

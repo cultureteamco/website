@@ -52,7 +52,7 @@ Every session is different. This game can open up discussion for numerous differ
 * Lean & Agile 
   * Build > Measure > Learn > Build > Measure > Learn > Build > Measure > Learn. This game is a great mindset shifter for any resistors to Lean or Agile methodologies.
 
-[Ask us about the other outcomes related to this game](#)
+{{>link link-contact-game="playdough-towers" text="Ask us about the other outcomes related to this game."}}
 
 {{>column-end}}
 
@@ -64,7 +64,7 @@ Every session is different. This game can open up discussion for numerous differ
 
 When we played Playdough Towers with the South Australian Red Cross, two teams attempted to build the tallest tower. One team had different time constraints than the other, unbeknownst to them. The team of planners tried more than once to build their tower, adopting an iterative process. Still, the team that prototyped more over shorter periods took the victory.
 
-[See full case study](#)
+{{>link link-client="australian-red-cross" text="See full case study >"}}
 
 #### Goes well with these games
 

@@ -58,7 +58,7 @@ Every session is different. This game can open up discussion for numerous differ
 * Cross-Departmental Understanding
   * The bomb defuser sees things completely differently to the bomb experts; 3D rather than 2D,colour rather than monochrome, intuition rather than words; having both sides come to realise their own biases and limitations opens them up to being more empathetic toward the rest of their team.
 
-[Ask us about the other outcomes related to this game](#)
+{{>link link-contact-game="keep-talking-and-nobody-explodes" text="Ask us about the other outcomes related to this game."}}
 
 {{>column-end}}
 
@@ -70,11 +70,11 @@ Every session is different. This game can open up discussion for numerous differ
 
 To bring RSPCA’s entire inspection and rescue team together, we developed a leadership edition of Keep Talking. The team, which is made up of two distinct sub-teams, were able to develop an appreciation for the different strengths and limitations that each member was working with.
 
-[See full case study](#)
+{{>link link-client="rspca-sa" text="See full case study >"}}
 
 With the South Australian Office for Digital Government, two large, leadership edition teams shared information and developed distinct styles of working. Examining the methods and success of the two teams made for some very interesting discussion.
 
-[See full case study](#)
+{{>link link-client="odg" text="See full case study >"}}
 
 #### Goes well with these games
 

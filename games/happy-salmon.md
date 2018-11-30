@@ -50,7 +50,7 @@ goes-well-with:
 
 This game can have multiple outcomes, depending on the extension option chosen. The game, at its core, is a great way to start every session. The speed, energy, vocals and physical touch shared between participants breaks down barriers quickly, boosts endorphins, and builds trust.
 
-[Ask us about the other outcomes related to this game](#)
+{{>link link-contact-game="happy-salmon" text="Ask us about the other outcomes related to this game."}}
 
 #### Extension option
 * Selfless mode
@@ -68,7 +68,7 @@ This game can have multiple outcomes, depending on the extension option chosen. 
 
 The Uni SA Business School’s Executive Education Unit had us in for a quick icebreaker session to lift their energy before going in to a big strategy meeting. Happy Salmon was the perfect game to kick this off and the high-energy it created helped the group speed through two more games in a 30 minute session!
 
-[See full case study](#)
+{{>link link-client="uni-sa-business-school" text="See full case study >"}}
 
 #### Goes well with these games
 

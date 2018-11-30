@@ -54,7 +54,7 @@ Every session is different. This game can open up discussion for numerous differ
 * We excel as a team when we’re committed to a common purpose. 
   * If you can’t commit to where the team’s headed, you have two options; help to steer the ship or get out of the boat; by staying silent, you’re just pulling in the wrong direction.
 
-[Ask us about the other outcomes related to this game](#)
+{{>link link-contact-game="dragon-golf" text="Ask us about the other outcomes related to this game."}}
 
 #### Extension options
 * Sabotage Rounds
@@ -70,7 +70,7 @@ Every session is different. This game can open up discussion for numerous differ
 
 AAMI’s team were one of the first to try this game out and they still hold the highest record. The clear communication and generosity of spirit required for this game was brought in abundance by the customer-facing team. It demonstrated how well they worked together and left them feeling energised and closer to one another. 
 
-[See full case study](#)
+{{>link link-client="aami" text="See full case study >"}}
 
 #### Goes well with these games
 
