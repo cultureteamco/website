@@ -1,9 +1,9 @@
 ---
 name: aami
-title:
+title:AAMI - Team Communication Activities - Adelaide | Culture Team
 short-title: AAMI
-keywords:
-meta:
+keywords: AAMI, Team Communication Activities
+meta: AAMI treated their team to some of Culture Team's team communication activities. If you're interested in trying our games, get in touch today! 
 sector: corporate
 categories:
   - cat-all
@@ -15,6 +15,8 @@ gallery:
   - image: aami/teaser-image-1-720x480.jpg
     width: 720
     height: 480
+preview: We built a session around teamwork and collaboration, with a goal to help everyone get to know each other better and have some fun.
+quote: Even the people who I thought mightn’t engage got into it!
 session:
   - title: Fake Nametags
     summary: It’s nice to get to know one another, but can be a little awkward when you feel like you should already know someone’s name. In this game, we give participants the opportunity to introduce themselves - or - the fictional character they’ve decided to be today. It’s a lighthearted way to give everyone in the room a name and a voice.
