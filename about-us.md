@@ -35,7 +35,7 @@ We believe in challenging ourselves and others to expand the concept of who is o
 
 {{>link link="our-values" text="See our values >"}}
 
-{{>link link="our-values" text="Read the FAQ >"}}
+{{>link link="faq" text="Read the FAQ >"}}
 
 {{>link link="our-process" text="Learn about our process >"}}
 

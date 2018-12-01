@@ -1,9 +1,9 @@
 ---
 name: faq
-title:
+title: Frequently Asked Questions | Culture Team
 short-title: FAQ
-keywords:
-meta:
+keywords: FAQ, Culture Team
+meta: At Culture Team, we currently service teams in Adelaide, Sydney, Melbourne and rural South Australia. If you’d like to see us elsewhere, let us know!
 video:
   source: faq/why-team-games-854x480.mp4
   image: faq/why-team-games-854x480.jpg
@@ -14,25 +14,25 @@ video:
 
 ## Frequently Asked Questions
 
-Because every team is different, they all have different questions. A one-to-one chat is the best way to answer yours.
 
-#### Why Team Building Games?
+### Why Team Building Games?
 
 {{>video}}
 
-### Improve Skills & Practice Innovation.
+#### Improve Skills & Practice Innovation.
 
 Games enable teams to rehearse skills in communication, leadership & problem solving. Creativity isn’t a natural talent; it’s a skill that must be practiced. Stretching your imagination is difficult to do with deadlines and consequences; games help to exercise your innovation.
 
-### New Tools for New Ideas.
+#### New Tools for New Ideas.
 
 Games allow people to test audacious ideas in a risk-free environment. Problems that are difficult to overcome in real life become a fun challenge in a game scenario. Games give your team the tools they need to switch their mindset when a problem seems insurmountable.
 
-### Closer Teams Work Better Together.
+#### Closer Teams Work Better Together.
 
 Games help to create a culture of trust and joviality. Members of a close-knit team bring their problems to one another early and deal with them in a positive way, rather than letting them fester. When people are committed to teamwork, the workplace operates more smoothly, problems are resolved more quickly, conflict is less likely to turn toxic, and output is greater.
 
-### Better Employee Retention
+
+#### Better Employee Retention
 
 Workplace culture is one of the top 3 reasons employees choose a new job. Keep your staff engaged and maintain your reputation as a great place to work.
 
@@ -42,6 +42,7 @@ Workplace culture is one of the top 3 reasons employees choose a new job. Keep y
 
 {{>column-start}}
 
+######Because every team is different, they all have different questions. A one-to-one chat is the best way to answer yours.
 #### Here are some of the questions that seem to be universal:
 
 * What size groups can you cater to?
@@ -64,5 +65,11 @@ Workplace culture is one of the top 3 reasons employees choose a new job. Keep y
   * Most of our games have extension options to help teams dive deeper into concepts once they’ve learnt the basics. We highly recommend multiple sessions to solidify the lessons in participants’ minds.
 * But... i still don’t get how it works?
   * No problem! You can check out {{>link link-page="our-system" text="how our system works"}} or simply get in touch to learn more. We’d love to hear from you!
+
+{{>link link="our-story" text="Read our story >"}}
+
+{{>link link="our-values" text="See our values >"}}
+
+{{>link link="our-process" text="Learn about our process >"}}
 
 {{>column-end}}

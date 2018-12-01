@@ -17,17 +17,23 @@ Culture Team sessions are held at your office. By creating a safe space for staf
 #### Intimate sessions.
 We value the honest discussions that come out of smaller group sizes. Our sessions can be short, allowing companies to book multiple teams into a day and ensure every participant gets a wholly enriching experience.
 
+#### Tailor-made sessions with company goals in mind.
+A typical two-hour session consist of 3-6 games which relate to one another, constructing an overall message. Our catalogue of games include old favourites, cutting edge computer games, and new games designed by us to serve specific themes.
+
 {{>column-end}}
 
 {{>column-start}}
-
-#### Tailor-made sessions with company goals in mind.
-A typical two-hour session consist of 3-6 games which relate to one another, constructing an overall message. Our catalogue of games include old favourites, cutting edge computer games, and new games designed by us to serve specific themes.
 
 #### We care about the message.
 Culture Team examines the way teams play and interact during these games, helping teammates to think about how they perform together. Throughout the session, we deliver key takeaways and discuss how participants can use our tools in their approach to work.
 
 #### We apply a human-centred approach to our entire service.
 We rigorously test every game that ends up in our rotation to ensure maximum participant engagement, high impact messages and a whole lotta fun. We go into every session ready to adapt and react to events as they unfold.
+
+{{>link link="our-system" text="Learn about our system >"}}
+
+{{>link link="about-us" text="Read about us >"}}
+
+{{>link link="faq" text="More in the FAQ >"}}
 
 {{>column-end}}

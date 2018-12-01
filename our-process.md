@@ -28,4 +28,8 @@ Our short, on-site sessions maximise productivity and bring a fun, positive atmo
 
 {{>video}}
 
+{{>link link="our-difference" text="What makes Culture Team Different? >"}}
+
+{{>link link="about-us" text="Learn more about our team >"}}
+
 {{>column-end}}

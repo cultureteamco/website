@@ -35,5 +35,11 @@ Game development is a problem solving process that pulls together many different
 
 {{>image test-club}}
 
+{{>link link="our-process" text="Learn about our process >"}}
+
+{{>link link="our-values" text="See our values >"}}
+
+{{>link link="faq" text="Frequently asked questions >"}}
+
 
 {{>column-end}}
