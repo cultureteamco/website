@@ -27,7 +27,7 @@ To assist in their sense of togetherness as they contributed across different pr
 
 The team’s calm, empathetic disposition shone through during the intense bomb game and participants got a real surprise when they saw the results of the tower building game.
 
-{{>link link-contact-client="aami" text="Sounds like your team?"}}
+{{>link link-contact-client="australian-red-cross" text="Sounds like your team?"}}
 
 {{>column-end}}
 
