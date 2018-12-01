@@ -68,7 +68,6 @@ This game can have multiple outcomes, depending on the extension option chosen. 
 
 The Uni SA Business School’s Executive Education Unit had us in for a quick icebreaker session to lift their energy before going in to a big strategy meeting. Happy Salmon was the perfect game to kick this off and the high-energy it created helped the group speed through two more games in a 30 minute session!
 
-{{>link link-client="uni-sa-business-school" text="See full case study >"}}
 
 #### Goes well with these games
 
