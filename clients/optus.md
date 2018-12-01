@@ -1,9 +1,9 @@
 ---
 name: optus
-title:
+title: Optus - Office Games For Employees - Adelaide | Culture Team
 short-title: Optus
-keywords:
-meta:
+keywords: Optus, Office Games for Employees
+meta: Optus took up the opportunity to provide their frontline employees with a Culture Team team building experience. Try our team building activities today!
 sector: corporate
 categories:
   - cat-all
@@ -13,6 +13,8 @@ video:
   image: optus/teaser-854x480.jpg
   width: 854
   height: 480
+preview: We were invited to put on back-to-back sessions for 120 frontline Mobile Service staff. The aim was to have fun, celebrate the company’s culture and instil value-based behaviours through experience with games.
+quote: If we could do something like this on a regular basis, that’d be awesome.
 session:
   - game: happy-salmon
   - game: betting-blocks

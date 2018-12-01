@@ -15,6 +15,8 @@ gallery:
   - image: lsa/teaser-image-1-720x480.jpg
     width: 720
     height: 480
+preview: We stepped in to help create a sense of togetherness and put focus on the importance of looking after one another.
+quote: The general consensus was that it wasn't like any team building they had done before.
 session:
   - game: happy-salmon
   - game: happy-salmon
@@ -69,6 +71,6 @@ People particularly liked the bomb game as it aligned with LSA's focus on techno
 
 {{>quote-start}}Everything can be fun when you bring the right attitude. Be open to learning and respect different skills.{{>quote-end}}
 
-It’s nice to work with others we don’t get to normally work with.
+{{>quote-start}}It’s nice to work with others we don’t get to normally work with.{{>quote-end}}
 
 {{>column-end}}

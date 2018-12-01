@@ -1,9 +1,9 @@
 ---
 name: blank-space
-title:
-short-title: Blankspace
-keywords:
-meta:
+title: Blank Space - Fun Christmas Games | Culture Team
+short-title: BlankSpace
+keywords: BlankSpace, Fun Christmas Games
+meta: Culture Team delivered a fun christmas games session to the residents at BlankSpace co-working hub. Read more about their experience & book your office party now!
 sector: other
 categories:
   - cat-all
@@ -21,6 +21,8 @@ gallery:
   - image: blank-space/teaser-image-3-720x480.jpg
     width: 720
     height: 480
+preview: The collective of freelancers at BlankSpace wanted an event to kick off their end of year Christmas party. A session with Culture Team would also be a great excuse to get to know each other better and encourage some friendly competition.
+quote: Kelly and Jeff made everything easy, delivering a workshop targeted to our office’s creative line of work. I was impressed with how their games and exercises tied into our ongoing projects.
 session:
   - title: Fake Nametags
     summary: It’s nice to get to know one another, but can be a little awkward when you feel like you should already know someone’s name. In this game, we give participants the opportunity to introduce themselves - or - the fictional character they’ve decided to be today. It’s a lighthearted way to give everyone in the room a name and a voice.

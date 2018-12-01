@@ -1,9 +1,9 @@
 ---
 name: odg
-title:
+title: Office for Digital Government - SA | Culture Team
 short-title: Office for Digital Government
-keywords:
-meta:
+keywords: Office for Digital Government, Strategic Planning
+meta: Culture Team collaborated with the Office for Digital Government to develop activities for their strategic planning day. Find out more & book today!
 sector: government
 categories:
   - cat-all
@@ -21,6 +21,8 @@ gallery:
   - image: odg/teaser-image-3-720x480.jpg
     width: 720
     height: 480
+preview: The Office for Digital Government invited us to be a part of their strategic planning day. Once they’d learnt that we were able to slip into a quick meeting at short notice, we collaborated on a very meaningful set of outcomes.
+quote: It was seamless and super-efficient.
 session:
   - game: yes-but-yes-and
   - title: Playdough Journey
@@ -33,7 +35,7 @@ session:
 
 ## {{short-title}}
 
-The Office for Digital Government invited us to be a part of their strategic planning day. They weren’t exactly sure what they wanted at first but once they’d learnt how our process works and that we’re able to slip into a quick meeting at short notice, we collaborated on a very meaningful set of outcomes.
+The Office for Digital Government invited us to be a part of their strategic planning day. Once they’d learnt that we were able to slip into a quick meeting at short notice, we collaborated on a very meaningful set of outcomes.
 
 ODG’s teams were required to pitch the value proposition of the business during the strategy day. In preparation for this pitch, Culture Team would get them in the mindset to approach the question; ‘What is the purpose of the unit?’, among others. Then, on the actual day, Culture Team would run a second session, focused on team bonding.
 

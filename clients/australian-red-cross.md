@@ -12,6 +12,8 @@ gallery:
   - image: redcross/teaser-image-0-720x480.jpg
     width: 720
     height: 480
+preview: To assist in their sense of togetherness as they contributed across different projects, we designed a session focused on communication and collaborative problem solving. 
+quote: It was a great way to break up the day, and by the end of the session everyone was noticeably relaxed and refreshed.
 session:
   - game: keep-talking-and-nobody-explodes
   - game: hidden-agendas

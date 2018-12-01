@@ -13,6 +13,8 @@ video:
   image: teamgage/teaser-854x480.jpg
   width: 854
   height: 480
+preview: We designed the game, Betting Blocks to practice focus and evaluate the benefits of sprints. We also adapted Happy Salmon to explore new ideas in productivity.
+quote: The games related to what we do on a day-to-do basis, but in a way that’s not boring! It was really good fun.
 session:
   - game: happy-salmon
     extension: Selfless Extension

@@ -21,6 +21,8 @@ gallery:
   - image: uni-sa-people-talent-and-culture/teaser-image-3-720x480.jpg
     width: 720
     height: 480
+preview: This session was focused on conflict resolution. We used games to explore the messages we send beneath our words and to take a deeper look into our behaviour and our thoughts during conflict situations.
+quote: This sort of thing shows, that if you do have that time to discuss with other people and listen to their viewpoints, you actually come up with better outcomes.
 session:
   - game: happy-salmon
   - game: hidden-agendas

@@ -18,6 +18,8 @@ gallery:
   - image: university-of-adelaide-graduate-career-readiness/teaser-image-2-720x480.jpg
     width: 720
     height: 480
+preview: After establishing trust, enthusiasm and a good basis for communication, the students delved into some more difficult games themed around problem solving and conflict resolution.
+quote: Students reported it was the most fun they have had engaging in team games. 
 session:
   - game: yes-but-yes-and
     extension: SOLER Extension

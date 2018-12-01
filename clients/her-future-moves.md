@@ -13,6 +13,8 @@ video:
   image: hfm/teaser-854x480.jpg
   width: 854
   height: 480
+preview: We ran a workshop for the Her Future Moves community, focused on critical thinking. The aim was to get participants feeling comfortable to think effectively, differently, and confidently, as well as giving them some tools to handle conflict.
+quote: I stepped out of my comfort zone today to help with my future; my future employment, my future self, and it’s the best thing I ever did.
 session:
   - game: happy-salmon
   - game: hidden-agendas
