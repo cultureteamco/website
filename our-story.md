@@ -10,6 +10,10 @@ jeff-and-kelly:
   image: our-story/jeff-and-kelly-720x720.jpg
   width: 720
   height: 720
+test-club:
+  image: our-story/test-club-1-720x480.jpg
+  width: 720
+  height: 480
 ---
 {{>column-start}}
 
@@ -21,12 +25,15 @@ Following this, Jeff found great satisfaction leading team building initiatives 
 
 Jeff’s achievements resonated with Kelly, who had come from a career in the film industry. On film sets, it was Kelly’s role to balance morale and egos with time management. She found that creating a sense of togetherness through shared purpose and mutual respect was the best way to serve as a leader and deliver the best outcomes as a group. Jeff’s team-building games seemed to fulfil her passions for creativity, teamwork and problem solving, so she proposed that they devote themselves to a business that would encapsulate all of them. The pair determined that games would pair fun and engagement with meaningful learning experiences.
 
-Game development is a problem solving process that pulls together many different disciplines. First, we find out as much as we can about a problem. Then, we research the root of the problem and any existing systems used to solve that problem. The delivery of the games’ outcomes and facilitation of discussion is shaped using psychology and business theory. The game evolves throughout the design process, with rigorous testing. Our group of testers meet regularly to help us embrace failure and improve from experience. There have been many people involved in our story so far, we would love for you to be one of them.
-
 {{>column-end}}
 
 {{>column-start}}
 
 {{>image jeff-and-kelly}}
+
+Game development is a problem solving process that pulls together many different disciplines. First, we find out as much as we can about a problem. Then, we research the root of the problem and any existing systems used to solve that problem. The delivery of the games’ outcomes and facilitation of discussion is shaped using psychology and business theory. The game evolves throughout the design process, with rigorous testing. Our group of testers meet regularly to help us embrace failure and improve from experience. There have been many people involved in our story so far, we would love for you to be one of them.
+
+{{>image test-club}}
+
 
 {{>column-end}}

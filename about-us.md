@@ -6,6 +6,10 @@ keywords:
   - About Us
   - Culture Building Activities
 meta: Culture Team designs culture building activities through tailor-made corporate team games that embody a human-centred approach and ignites teamwork & fun!
+gallery:
+  - image: about-us/image-0-720x480.jpg
+    width: 720
+    height: 480
 ---
 {{>column-start full=true}}
 
@@ -20,5 +24,20 @@ People can test audacious ideas in a risk-free environment when it’s in the co
 Play helps to create a culture of trust and joviality among players, helping teams to bring their problems to one another early and deal with them in a positive way, rather than letting them fester.
 
 We believe in challenging ourselves and others to expand the concept of who is on our team to embrace the wider, global community. If everyone adopts a team mentality, we can overcome much more complex problems.
+
+{{>column-end}}
+
+{{>column-start}}
+
+{{>gallery}}
+
+{{>link link="our-story" text="Read our story >"}}
+
+{{>link link="our-values" text="See our values >"}}
+
+{{>link link="our-values" text="Read the FAQ >"}}
+
+{{>link link="our-process" text="Learn about our process >"}}
+
 
 {{>column-end}}
