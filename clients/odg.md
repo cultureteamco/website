@@ -63,14 +63,15 @@ Rejoining the team a couple of days later to slip seamlessly into their strategy
 
 #### Testimonial
 
-When we were figuring out what to do for the session, you heard us and listened to what we needed and you understood. You definitely responded and tailored the offerings that you had to meet our needs. It was a bit last minute, we didn’t know exactly what we wanted, but you were flexible. We threw out the problems and you offered the solutions, using your experience.
-
-The team were expecting the usual team building; one of the guys who was
-really opposed, literally stomping his feet before the day, got really into it once he was playing the game. It appealed to introverts and extroverts, alike and engagement in our strategy day really changed after the games.
-
-Part of the experience was that you just came in, you ran the session and you left. It wasn’t this big onerous thing. It was all seamless. It was really, really good.
-
-* Chloe Harrison, Office for Digital Government
+We weren’t exactly sure what we wanted. During our initial meeting with you, we were still figuring out the planning aspects of the session. We appreciated how you listened and engaged in the conversation.  We had some vague ideas of how we envisaged things playing out but looked to you for experience and you certainly delivered. You understood what we wanted to achieve by responding with a tailored offering of your services that specifically met our needs. We recognised that we had left much of our planning to the last minute, however, you worked with a sense of urgency and were very flexible.
+ 
+On the day, the team were expecting the usual team building; some were apprehensive and even opposed to participating. You quickly won the team over and had everyone quickly engaged in the exercises. It appealed to introverts and extroverts, and even those opposed couldn’t stop talking about the experience positively after.  
+ 
+Your engagement in our planning day really offered a noticeable difference in how the team engaged with the remainder of the planning session. They were upbeat, focussed and actively participating until the end of the day.
+ 
+The option of engaging you just for a session, worked really well and part of the positive experience was that you came in, ran the session and left. It was seamless and super-efficient.
+ 
+* Tina Ferguson, Head of Digital Services Capability and Chloe Harrison, Project Officer
 
 {{>column-end}}
 
