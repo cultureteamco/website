@@ -17,7 +17,7 @@ quote: It was a great way to break up the day, and by the end of the session eve
 session:
   - game: keep-talking-and-nobody-explodes
   - game: hidden-agendas
-- game: playdough-towers
+  - game: playdough-towers
 ---
 {{>column-start}}
 

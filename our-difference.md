@@ -30,10 +30,16 @@ Culture Team examines the way teams play and interact during these games, helpin
 #### We apply a human-centred approach to our entire service.
 We rigorously test every game that ends up in our rotation to ensure maximum participant engagement, high impact messages and a whole lotta fun. We go into every session ready to adapt and react to events as they unfold.
 
-{{>link link="our-system" text="Learn about our system >"}}
+{{>link link-page="our-system" text="Learn about our system >"}}
 
-{{>link link="about-us" text="Read about us >"}}
+{{>clearfix phone=true}}
 
-{{>link link="faq" text="More in the FAQ >"}}
+{{>link link-page="about-us" text="Read about us >"}}
+
+{{>clearfix phone=true}}
+
+{{>link link-page="faq" text="More in the FAQ >"}}
+
+{{>clearfix phone=true}}
 
 {{>column-end}}

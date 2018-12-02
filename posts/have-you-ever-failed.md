@@ -10,25 +10,29 @@ tags:
   - things we've learned
 categories:
   - cat-all
-  - cat-things-we-have-learned
+  - cat-things-weve-learned
 summary: We've all failed. In this article, we talk about some of our biggest failures and how we made the most of them.
 quote: For weeks, it kept me down. Even now, I cringe to think about it. But now, it also makes me smile. We learnt more from that session than we have from any session that’s gone perfectly.
-gallery1:
-  - image: post-0001/image-1-640x480.jpg
-    width: 640
-    height: 480
-gallery2:
-  - image: post-0001/image-0-640x480.jpg
-    width: 640
-    height: 480
+image1:
+  image: post-0001/image-1-640x480.jpg
+  width: 640
+  height: 480
+image2:
+  image: post-0001/image-0-640x480.jpg
+  width: 640
+  height: 480
 ---
 {{>column-start full=true}}
-##How to turn Failure into Success
-### Have you ever failed?
+
+## How to turn Failure into Success
+
+{{>post-overview}}
+
+#### Have you ever failed?
 
 Ha! Of course you have! You’re human. Or, you’re a computer scanning this page, in which case,you’re pretty likely to have failed at some point too. The real question is; what did you do with that failure?
 
-#####Six months ago, I failed pretty badly.
+### Six months ago, I failed pretty badly.
 
 I run a business designing and facilitating interpersonal game experiences for corporate teams. Think of it as custom-tailored team building. Six months ago, my business was still very new and we had booked a job with our biggest client yet.
 
@@ -39,7 +43,8 @@ As I’m sure you might expect, it didn’t go to plan. In fact, just about ever
 We survived the session, and actually received overwhelmingly positive feedback. Apparently, and much to my concern, compared to the participants’ previous team building experiences, this one was great... Still, I couldn’t help but feel awful about it. For weeks, it kept me down. Even now, I cringe to think about it. But now, it also makes me smile. We learnt more from that session than we have from any session that’s gone perfectly. We broke down all the things that went wrong and created changes for each of them. Every session since has been better than the last and I have failure to thank for that.
 
 Just because we’ve learnt from our failure, doesn’t prevent failure from striking again…
-#####Recently, we had our new ‘worst session ever’.
+
+### Recently, we had our new ‘worst session ever’.
 
 It started out with horrible weather. As soon as people walked in the door, we could tell they were in a bad mood. We weren’t in the perfect place to lift their moods either. The room booking system at this particular venue was a hot mess, so we had three different groups of people come in during our session, trying to claim the room as their own. Naturally, the confusion shook us a little and had everyone on an off-beat. We knew that owning and maintaining our energy was super important for influencing the moods of others and creating ‘aha’ moments. This was the first time that our ability to do so had been seriously challenged by bad weather, bad moods, a tiny room, and constant interruptions.
 
@@ -47,19 +52,19 @@ Again, we got positive feedback, which, if judged in comparison to the other off
 
 This is how experiential learning sticks; we have memories, emotions, tangible experiences to tie the lesson to!
 
-####That day, we counted 40 things that went wrong. 
+### That day, we counted 40 things that went wrong. 
 
-{{>gallery1}}
+{{>image image1}}
 
-#####You know what that means? 40 new successes on the horizon.
+### You know what that means? 40 new successes on the horizon.
 
-{{>gallery2}}
+{{>image image2}}
 
 Our worst session ever proved to be a very fruitful experience.
 
-###So, what are you going to do with your next failure?
+### So, what are you going to do with your next failure?
 
-######_Written by Kelly Carpenter, Founder_ 
+##### _Written by Kelly Carpenter, Founder_ 
 
 {{>column-end}}
 

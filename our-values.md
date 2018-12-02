@@ -49,9 +49,14 @@ meta: Culture Team's mission is to infect individuals with a team mindset. Cultu
 
 {{>link link-page="our-story" text="Read more about our team and our story >"}}
 
-{{>link link="our-process" text="Learn about our process >"}}
+{{>clearfix phone=true}}
 
-{{>link link="faq" text="See our frequently asked questions >"}}
+{{>link link-page="our-process" text="Learn about our process >"}}
 
+{{>clearfix phone=true}}
+
+{{>link link-page="faq" text="See our frequently asked questions >"}}
+
+{{>clearfix phone=true}}
 
 {{>column-end}}

@@ -11,7 +11,7 @@ meta: The Culture Team System is designed to ensure maximum engagement with uniq
 
 ## The Culture Team System
 
-######Your team can’t be put in a box! This is why we apply design thinking with a human-centred approach to create a unique experience for every team.
+### Your team can’t be put in a box! This is why we apply design thinking with a human-centred approach to create a unique experience for every team.
 
 #### 1. We learn about your team, the challenges they face and the outcomes that they need.
 
@@ -41,15 +41,19 @@ Why make a fuss when you can make progress?
 
 {{>quote-start}}Part of the experience was that you just came in, you ran the session and you left. It wasn’t this big onerous thing. It was all seamless. It was really, really good. - Chloe Harrison, {{>link link-client="odg" text="Office for Digital Government SA"}}{{>quote-end}}
 
-###It’s the perfect way to equip the team to tackle any challenge!
+### It’s the perfect way to equip the team to tackle any challenge!
 
 Our sessions range from 1-5 hours, 6-50 people, and can include 1-8 games. 
 
 Because every
 team is different, we always like to get to know our customers before recommending a course of action. Contact us today for a chat.
 
-{{>link link="about-us" text="Learn about us >"}}
+{{>link link-page="about-us" text="Learn about us >"}}
 
-{{>link link="our-difference" text="What makes Culture Team different? >"}}
+{{>clearfix phone=true}}
+
+{{>link link-page="our-difference" text="What makes Culture Team different? >"}}
+
+{{>clearfix phone=true}}
 
 {{>column-end}}

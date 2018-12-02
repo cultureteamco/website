@@ -42,7 +42,7 @@ Workplace culture is one of the top 3 reasons employees choose a new job. Keep y
 
 {{>column-start}}
 
-######Because every team is different, they all have different questions. A one-to-one chat is the best way to answer yours.
+### Because every team is different, they all have different questions. A one-to-one chat is the best way to answer yours.
 #### Here are some of the questions that seem to be universal:
 
 * What size groups can you cater to?
@@ -66,10 +66,16 @@ Workplace culture is one of the top 3 reasons employees choose a new job. Keep y
 * But... i still don’t get how it works?
   * No problem! You can check out {{>link link-page="our-system" text="how our system works"}} or simply get in touch to learn more. We’d love to hear from you!
 
-{{>link link="our-story" text="Read our story >"}}
+{{>link link-page="our-story" text="Read our story >"}}
 
-{{>link link="our-values" text="See our values >"}}
+{{>clearfix phone=true}}
 
-{{>link link="our-process" text="Learn about our process >"}}
+{{>link link-page="our-values" text="See our values >"}}
+
+{{>clearfix phone=true}}
+
+{{>link link-page="our-process" text="Learn about our process >"}}
+
+{{>clearfix phone=true}}
 
 {{>column-end}}

@@ -1,9 +1,9 @@
 ---
 name: university-of-south-australia-people-talent-and-culture
-title: University of South Australia: People, Talent & Culture | Culture Team
+title: "University of South Australia: People, Talent & Culture | Culture Team"
 short-title: Uni SA People, Talent & Culture
-keywords: University of South Australia: People, Talent & Culture
-meta:Read about the University of South Australia's People, Talent & Culture team's experience with working with Culture Team. Book your team building game today!
+keywords: "University of South Australia: People, Talent & Culture"
+meta: Read about the University of South Australia's People, Talent & Culture team's experience with working with Culture Team. Book your team building game today!
 sector: corporate
 categories:
   - cat-all
@@ -15,7 +15,7 @@ gallery:
   - image: uni-sa-people-talent-and-culture/teaser-image-1-720x480.jpg
     width: 720
     height: 480
-      - image: uni-sa-people-talent-and-culture/teaser-image-2-720x480.jpg
+  - image: uni-sa-people-talent-and-culture/teaser-image-2-720x480.jpg
     width: 720
     height: 480
   - image: uni-sa-people-talent-and-culture/teaser-image-3-720x480.jpg

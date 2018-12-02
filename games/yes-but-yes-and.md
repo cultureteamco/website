@@ -74,8 +74,6 @@ Every session is different. This game can open up discussion for numerous differ
 
 We ran a communication workshop for Uni SA’s ‘Aspire’ program, in which students with a strong leadership record were encouraged to apply. Participants from many CALD backgrounds supported each other to step out of their comfort zones and explore the way we use language; with our words and our bodies.
 
-{{>link link-client="uni-sa-aspire" text="See full case study >"}}
-
 #### Goes well with these games
 
 {{>goes-well-with}}

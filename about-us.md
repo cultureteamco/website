@@ -6,12 +6,12 @@ keywords:
   - About Us
   - Culture Building Activities
 meta: Culture Team designs culture building activities through tailor-made corporate team games that embody a human-centred approach and ignites teamwork & fun!
-gallery:
-  - image: about-us/image-0-720x480.jpg
-    width: 720
-    height: 480
+image0:
+  image: about-us/image-0-720x480.jpg
+  width: 720
+  height: 480
 ---
-{{>column-start full=true}}
+{{>column-start}}
 
 ## About Us
 
@@ -29,15 +29,22 @@ We believe in challenging ourselves and others to expand the concept of who is o
 
 {{>column-start}}
 
-{{>gallery}}
+{{>image image0}}
 
-{{>link link="our-story" text="Read our story >"}}
+{{>link block link-page="our-story" text="Read our story >"}}
 
-{{>link link="our-values" text="See our values >"}}
+{{>clearfix phone=true}}
 
-{{>link link="faq" text="Read the FAQ >"}}
+{{>link link-page="our-values" text="See our values >"}}
 
-{{>link link="our-process" text="Learn about our process >"}}
+{{>clearfix phone=true}}
 
+{{>link link-page="faq" text="Read the FAQ >"}}
+
+{{>clearfix phone=true}}
+
+{{>link link-page="our-process" text="Learn about our process >"}}
+
+{{>clearfix phone=true}}
 
 {{>column-end}}
