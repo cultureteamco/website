@@ -4,10 +4,10 @@ title: Teamgage - Team Building For Startups - Adelaide | Culture Team
 short-title: Teamgage
 keywords: Teamgage, Team Building for Startups
 meta: Read about Teamgage's experience with Culture Team's team building for startups. Culture Team design team building games to ignite team culture. 
-sector: other
+sector: something different
 categories:
   - cat-all
-  - cat-other
+  - cat-something-different
 video:
   source: teamgage/teaser-854x480.mp4
   image: teamgage/teaser-854x480.jpg
