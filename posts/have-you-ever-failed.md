@@ -13,6 +13,10 @@ categories:
   - cat-things-weve-learned
 summary: We've all failed. In this article, we talk about some of our biggest failures and how we made the most of them.
 quote: For weeks, it kept me down. Even now, I cringe to think about it. But now, it also makes me smile. We learnt more from that session than we have from any session that’s gone perfectly.
+cover:
+  image: post-0001/image-1-640x480.jpg
+  width: 640
+  height: 480
 image1:
   image: post-0001/image-1-640x480.jpg
   width: 640
