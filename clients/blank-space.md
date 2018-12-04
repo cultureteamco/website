@@ -9,7 +9,7 @@ meta: Culture Team delivered a fun christmas games session to the residents at B
 sector: something different
 categories:
   - cat-all
-  - cat-something-different
+  - cat-something-different-clients
 gallery:
   - image: blank-space/teaser-image-0-720x480.jpg
     width: 720

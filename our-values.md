@@ -47,7 +47,7 @@ meta: Culture Team's mission is to infect individuals with a team mindset. Cultu
 * Embracing the global human team.
   * You expand the concept of who’s on your team to embrace outsiders.
 
-{{>link link-page="our-story" text="Read more about our team and our story >"}}
+{{>link link-page="our-story" text="Read more about our story >"}}
 
 {{>clearfix phone=true}}
 

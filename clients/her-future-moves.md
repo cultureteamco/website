@@ -9,7 +9,7 @@ meta: Read about Her Future Moves' experience with Culture Team's critical think
 sector: something different
 categories:
   - cat-all
-  - cat-something-different
+  - cat-something-different-clients
 video:
   source: hfm/teaser-854x480.mp4
   image: hfm/teaser-854x480.jpg

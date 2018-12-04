@@ -9,7 +9,7 @@ meta: Read about Teamgage's experience with Culture Team's team building for sta
 sector: something different
 categories:
   - cat-all
-  - cat-something-different
+  - cat-something-different-clients
 video:
   source: teamgage/teaser-854x480.mp4
   image: teamgage/teaser-854x480.jpg
