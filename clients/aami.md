@@ -2,7 +2,9 @@
 name: aami
 title: AAMI - Team Communication Activities - Adelaide | Culture Team
 short-title: AAMI
-keywords: AAMI, Team Communication Activities
+keywords: 
+  - AAMI
+  - Team Communication Activities
 meta: AAMI treated their team to some of Culture Team's team communication activities. If you're interested in trying our games, get in touch today! 
 sector: corporate
 categories:

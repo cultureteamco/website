@@ -2,7 +2,9 @@
 name: lsa
 title: Lifetime Support Authority | Culture Team
 short-title: Lifetime Support Authority
-keywords: lifetime support authority, team building
+keywords: 
+  - lifetime support authority
+  - team building
 meta: Culture Team worked with the South Australian Lifetime Support Authority to create a sense of team togetherness.
 sector: corporate
 categories:

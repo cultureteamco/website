@@ -2,7 +2,9 @@
 name: odg
 title: Office for Digital Government - SA | Culture Team
 short-title: Office for Digital Government
-keywords: Office for Digital Government, Strategic Planning
+keywords: 
+  - Office for Digital Government
+  - Strategic Planning
 meta: Culture Team collaborated with the Office for Digital Government to develop activities for their strategic planning day. Find out more & book today!
 sector: government
 categories:

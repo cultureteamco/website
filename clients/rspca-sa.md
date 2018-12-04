@@ -2,7 +2,9 @@
 name: rspca-sa
 title: RSPCA - South Australia - Bringing Teams Together | Culture Team
 short-title: RSPCA SA
-keywords: RSPCA SA, Bringing Teams Together
+keywords: 
+  - RSPCA SA
+  - Bringing Teams Together
 meta: Culture Team worked with RSPCA SA in bringing teams together across separate roles. Book a team building experience for your team today!
 sector: non-profit
 categories:

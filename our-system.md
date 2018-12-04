@@ -45,8 +45,7 @@ Why make a fuss when you can make progress?
 
 Our sessions range from 1-5 hours, 6-50 people, and can include 1-8 games. 
 
-Because every
-team is different, we always like to get to know our customers before recommending a course of action. Contact us today for a chat.
+Because every team is different, we always like to get to know our customers before recommending a course of action. Contact us today for a chat.
 
 {{>link link-page="about-us" text="Learn about us >"}}
 

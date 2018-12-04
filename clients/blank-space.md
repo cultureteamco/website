@@ -2,7 +2,9 @@
 name: blank-space
 title: Blank Space - Fun Christmas Games | Culture Team
 short-title: BlankSpace
-keywords: BlankSpace, Fun Christmas Games
+keywords: 
+  - BlankSpace
+  - Fun Christmas Games
 meta: Culture Team delivered a fun christmas games session to the residents at BlankSpace co-working hub. Read more about their experience & book your office party now!
 sector: something different
 categories:

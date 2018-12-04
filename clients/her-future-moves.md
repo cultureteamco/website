@@ -2,7 +2,9 @@
 name: her-future-moves
 title: Her Future Moves - Critical Thinking Games | Culture Team
 short-title: Her Future Moves
-keywords: Her Future Moves, Critical Thinking
+keywords: 
+  - Her Future Moves
+  - Critical Thinking
 meta: Read about Her Future Moves' experience with Culture Team's critical thinking games for professional development in Adelaide. Book a workshop today!
 sector: something different
 categories:

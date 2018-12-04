@@ -2,7 +2,9 @@
 name: australian-red-cross
 title: Australian Red Cross - Leadership Team Building - Adelaide | Culture Team
 short-title: Red Cross
-keywords: Australian Red Cross, Leadership Team Building
+keywords: 
+  - Australian Red Cross
+  - Leadership Team Building
 meta: Read about how the Australian Red Cross tried one of Culture Team's leadership team building games. Interested in treating your team? Get in touch today!
 sector: corporate
 categories:

@@ -14,7 +14,6 @@ video:
 
 ## Frequently Asked Questions
 
-
 ### Why Team Building Games?
 
 {{>video}}
