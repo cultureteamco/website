@@ -25,7 +25,7 @@ filters:
 
 {{>column-start classes=categories}}
 
-  ## {{short-title}}
+  {{>link link-post=name h2=true text=short-title}}
 
   {{>post-overview}}
 

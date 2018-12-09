@@ -27,7 +27,7 @@ filters:
 
 {{>column-start classes=categories}}
 
-  ## {{short-title}}
+  {{>link link-client=name h2=true text=short-title}}
 
   {{>client-overview}}
 

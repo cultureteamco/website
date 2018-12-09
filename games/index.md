@@ -32,7 +32,7 @@ filters:
 
 {{>column-start classes=categories}}
 
-  ## {{short-title}}
+  {{>link link-game=name h2=true text=short-title}}
   
   {{>game-overview}}
 
