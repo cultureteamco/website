@@ -6,10 +6,10 @@ keywords:
   - lifetime support authority
   - team building
 meta: Culture Team worked with the South Australian Lifetime Support Authority to create a sense of team togetherness.
-sector: corporate
+sector: government
 categories:
   - cat-all
-  - cat-corporate
+  - cat-government
 gallery:
   - image: lsa/teaser-image-0-720x480.jpg
     width: 720
