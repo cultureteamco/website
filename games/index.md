@@ -1,8 +1,11 @@
 ---
 name: games
-title:
-keywords:
-meta:
+title: Our Games - Corporate Team Building Games | Culture Team
+keywords: 
+- corporate team building games
+- culture team
+- our games
+meta: Corporate team building games are highly effective for building culture within your team. Our games help to develop creativity & teamwork through team games.
 title-banner:
   title: <b class="highlight">Games</b> for every team challenge.
 filters:
