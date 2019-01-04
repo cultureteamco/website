@@ -23,7 +23,7 @@ With backgrounds in business, hospitality and the arts, Jeff and Kelly were draw
 
 Following this, Jeff found great satisfaction leading team building initiatives in his work and extra-curricular studies. He relished in the success of improving relationships between leaders and helping first-year students create new bonds.
 
-Jeff’s achievements resonated with Kelly, who had come from a career in the film industry. On film sets, it was Kelly’s role to balance morale and egos with time management. She found that creating a sense of togetherness through shared purpose and mutual respect was the best way to serve as a leader and deliver the best outcomes as a group. Jeff’s team-building games seemed to fulfil her passions for creativity, teamwork and problem solving, so she proposed that they devote themselves to a business that would encapsulate all of them. The pair determined that games would pair fun and engagement with meaningful learning experiences.
+Jeff’s achievements resonated with Kelly, who had come from a career in the film industry. On film sets, it was Kelly’s role to balance morale and egos with time management. She found that creating a sense of togetherness through shared purpose and mutual respect was the best way to serve as a leader and deliver the best outcomes as a group. Jeff’s team-building games seemed to fulfil her passions for creativity, teamwork and problem solving, so she proposed that they devote themselves to a business that would encapsulate all of them. The pair determined that their games would pair fun and engagement with meaningful learning experiences.
 
 {{>column-end}}
 
@@ -31,7 +31,7 @@ Jeff’s achievements resonated with Kelly, who had come from a career in the fi
 
 {{>image jeff-and-kelly}}
 
-Game development is a problem solving process that pulls together many different disciplines. First, we find out as much as we can about a problem. Then, we research the root of the problem and any existing systems used to solve that problem. The delivery of the games’ outcomes and facilitation of discussion is shaped using psychology and business theory. The game evolves throughout the design process, with rigorous testing. Our group of testers meet regularly to help us embrace failure and improve from experience. There have been many people involved in our story so far, we would love for you to be one of them.
+Game development is a problem solving process that pulls together many different disciplines. First, we find out as much as we can about a problem. Then, we research the root of the problem and any existing systems used to solve that problem. The delivery of the games’ outcomes and facilitation of discussion is shaped using psychology and business theory. The game evolves throughout the design process, with rigorous testing. Our group of testers are excited about team building in Adelaide. They meet regularly to help us embrace failure and improve from experience. There have been many people involved in our story so far, we would love for you to be one of them.
 
 {{>image test-club}}
 

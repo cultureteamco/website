@@ -1,9 +1,11 @@
 ---
 name: clients
-title:
+title: Our Clients - Companies With Great Corporate Culture | Culture Team
 short-title: Clients
 keywords:
-meta:
+- Our Clients
+- Companies With Great Corporate Culture
+meta: Culture Team deliver team building activities to your workplace with actionable takeaways to create great corporate culture within companies. Book today!
 title-banner:
   title: Igniting culture in <b class="highlight">every</b> team.
 filters:

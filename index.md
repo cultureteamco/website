@@ -1,6 +1,6 @@
 ---
 title: Culture Team - Team Building Activities - Corporate Culture | Adelaide
-meta: Culture Team ignites teamwork with interpersonal team building games. Our facilitators tailor team building experiences to foster teamwork & corporate culture.
+meta: Culture Team ignites teamwork with interpersonal team building games. Our facilitators tailor team building activities to foster teamwork & corporate culture.
 keywords:
   - Culture Team
   - Team Building Activities

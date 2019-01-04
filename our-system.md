@@ -23,7 +23,7 @@ We don’t apply a cookie-cutter to your team, we let their needs shape what the
 
 We adapt existing games and create new, original games to provide targeted outcomes for your team. 
 
-The team at tech startup, Teamgage was overwhelmed by their workload. We created new games to target focus, productivity and teamwork, while alleviating their stress with some fun. This allowed the team to identify some working and communication styles that could be adopted to their daily work life to help economise their workload.
+The team at tech startup, {{>link link-client="teamgage" text="Teamgage"}} was overwhelmed by their workload. We created new games to target focus, productivity and teamwork, while alleviating their stress with some fun. This allowed the team to identify some working and communication styles that could be adopted to their daily work life to help economise their workload.
 
 {{>column-end}}
 
@@ -33,7 +33,7 @@ The team at tech startup, Teamgage was overwhelmed by their workload. We created
 
 Our unique games create a fun atmosphere for genuine engagement. In our sessions, we deliver relevant, applicable takeaways and ensure they make an impact.
 
-{{>quote-start}}Kelly and Jeff came in and set up the space, so all we had to do was walk in and play. The games allowed us to work together in different formats, under different circumstances, and have a laugh along the way. - Candice Czapla, Australian Red Cross{{>quote-end}}
+{{>quote-start}}Kelly and Jeff came in and set up the space, so all we had to do was walk in and play. The games allowed us to work together in different formats, under different circumstances, and have a laugh along the way. - Candice Czapla, {{>link link-client="australian-red-cross" text="Australian Red Cross"}}{{>quote-end}}
 
 #### 4. We get out of the way, so that your team can deploy their new capabilities right away.
 
