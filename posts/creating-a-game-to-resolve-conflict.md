@@ -10,41 +10,76 @@ meta: Culture Team details their process of iteration in developing team buildin
 author: Kelly Carpenter
 date: November, 2018
 tags:
-  - things we've learned
-  - team building
+  - what's happening
+  - games
 categories:
   - cat-all
-  - cat-things-weve-learned
-  - cat-team-building
-summary: Vulnerability not only allows us to make connections, it is an essential building block for strong and enduring relationships. 
-quote: It’s sometimes the easiest path to disconnect from others and throw up our guard. It makes us feel safe in the unknown.  Admit it or not, the source of this disconnection is fear.
+  - cat-whats-happening
+  - cat-games
+summary: If you’re committed to the design process, as we are, you know that it’s a never-ending cycle. In this blog, we detail the first five iterations of the Cards vs Conflict game development cycle.
+quote: We realised that people hold cards splayed vertically in their hands, but our text ran horizontally. We found spelling errors, language barriers, and learnt the limitations for group sizes. 
 cover:
-  image: post-0002/image-0-640x480.jpg
-  width: 640
+  image: post-0003/image-1-720x480.jpg
+  width: 720
   height: 480
 image1:
-  image: post-0002/image-0-640x480.jpg
-  width: 640
+  image: post-0003/image-0-480x640.jpg
+  width: 480
+  height: 640
+image2:
+  image: post-0003/image-1-720x480.jpg
+  width: 720
   height: 480
+image3:
+  image: post-0003/image-2-720x480.jpg
+  width: 720
+  height: 480
+
 ---
 {{>column-start full=true}}
 
-## Building Vulnerability Based Trust
+## Creating a Game to Resolve Conflict
 
 {{>post-overview}}
 
-####Being vulnerable is hard. It’s not just hard, its scary. To be vulnerable in front of someone is to expose ourselves. Vulnerability is what allows us to be truly seen for who we are and make honest connections with others. If we deny our vulnerability, we deny allowing ourselves to make these connections; it is the glue that holds close relationships together.
- ######It’s sometimes the easiest path to disconnect from others and throw up our guard. It makes us feel safe in the unknown.  
-Admit it or not, the source of this disconnection is fear. When we take the safe option and numb ourselves to being vulnerable, we numb ourselves to feeling joy, happiness, to connecting with others and the world around us and to experiencing new opportunities.
-So, how can we learn to be vulnerable? We can learn vulnerability by practicing gratitude, understanding, and appreciation for others and ourselves. Think of your vulnerability as a gift to others. Give more by creating the space for others to be vulnerable with you. Let go of who you think you should be and have the courage to be compassionate to yourself and others. Vulnerability allows us to explore our world together. It is the birthplace of innovation and creativity. To put something that is a part of you out there for others to see, takes courage. As a creative writer, I need to embrace vulnerability and allow myself and my work to be seen. It is worth it. To have someone connect with my work is to, in a way, connect with myself. I have stopped viewing vulnerability as a weakness and embraced it to make it one of my strengths. I am able to put myself and my work out there; ready to trust and make a connection with someone.
-As humans, we need connections in our lives. Vulnerability not only allows us to make connections, it is an essential building block for strong and enduring relationships. This may come naturally in friendships and family relationships; the people that are there for us through thick and thin, who have seen us at our best and at our worst. These are the relationships that we often look back on as the most meaningful, the most fulfilling. 
-######Imagine what a relationship built upon shared vulnerability might look like in the workplace… 
-Rather than competing with one another, hiding mistakes, allowing cold conflicts to escalate, perhaps we could build trust. We could be open with one another, encourage each other, ask for help when we need it, take creative risks and support one another when we fall. Most of all, we could enjoy friendship. Imagine if you had the type of friendships at work that you have outside of work, think of the fun you could have, relaxing, knowing that your colleagues have your back. This is the environment you can create by lowering your guard, showing your true self to those around you and creating space for them to do the same.Stop and think of a moment; can you recall a time someone showed you that they were vulnerable? When did someone let their guard down and let you truly see them? It makes us feel special and accepted, when another person trusts us enough to really show themselves to us. But when was the last time you let your own guard down? When did you last let someone truly see you? When was the last time you said, “I just don’t know the answer,” or “I need help”? Vulnerability is not a weakness; it is the strongest tool we have to build connections with others. Lean into it. It is a frightening, but truly amazing experience that only makes us, and those around us, stronger.######Today, I’m taking the plunge and posting my first blog post publicly. Now, it’s your chance to do something scary. How will you let yourself be truly seen?
-##### _Written by Simone Beeson, Creative Writer_ 
+######Creating new games can be a long process. Usually, we start with a premise. Often, in the beginning, we would start at the kitchen table.
+
+For this game, we had the goal of creating a game about resolving conflict. Our research determined that conflict arises when a person’s needs aren’t being met. We brainstormed all sorts of ways that our needs mightn’t be met; because someone refuses to help, misunderstands our needs, has their own needs which conflict with ours… We also recognised that our automatic, emotional responses can sometimes get in the way of constructive solutions.
+
+We bashed out a collection of emotional responses and played a low-fidelity game together where one person would read out the reason our needs weren’t being met and the other would select an emotional response from a vast array of cards laid out in front of them. This was a really interesting start and led to some deep discussion. Once we were confident in the idea, we invited our partners to play and give their feedback. 
+
+####Content that this idea was worth investigating further, we moved onto the second iteration.
+
 {{>image image1}}
 
-If you're interested in embracing vulnerability to build trust in your workplace, have a look at some of our {{>link link-page="/games/index.html" text="trust building games"}}.
+To scale the game for multiple players, we put all the emotional responses into a deck, where each player could draw limited cards. We also transformed our basic scenarios into fun, fictional settings that were relatable and understandable, but far enough removed from everyday life to be enjoyable.
 
+######Once we were happy with the mechanic of the game, we could go on to expand on narratives and styling.
+
+####We tested our third iteration with our test club.
+
+Observing a larger group with our new cards revealed that it was pretty, but needed to function better. We realised that people hold cards splayed vertically in their hands, but our text ran horizontally. We found spelling errors, language barriers, and learnt the limitations for group sizes. 
+
+We also confirmed that people besides us and our girlfriends thought that it was fun and useful.
+
+{{>image image2}}
+
+####The fourth version was solid. 
+We had vertical text, we had synonyms, we had multiple decks for multiple groups, and we had developed a clever secondary thinking exercise that would elevate discussion... The feedback from our Chinese test club members had become especially useful. When we played the game with a class half-filled with international students, it was a hit.
+
+######We found areas for improvement, which we think we always will. 
+
+{{>image image3}}
+
+8 months on, we’ve developed a fifth edition, with some revised cards and a new collection of fictional scenarios. 
+
+######If you’re committed to the design process, as we are, you know that it’s a never-ending cycle. 
+
+We can’t wait to take this game to greater heights and provide the best possible experience for each person that plays it.
+
+##### _Written by Kelly Carpenter, Co-Founder_ 
+
+If you’re interested in testing {{>link link-page="/games/cards-vs-conflict.html" text="Cards vs Conflict"}} as a facilitate-it-yourself card game, we’d love to hear from you!
 
 {{>column-end}}
 
