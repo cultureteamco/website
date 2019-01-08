@@ -14,7 +14,7 @@ gallery:
   - image: aami/teaser-image-0-720x480.jpg
     width: 720
     height: 480
-	alt: AAMI staff participating in team communication activities
+    alt: AAMI staff participating in team communication activities
   - image: aami/teaser-image-1-720x480.jpg
     width: 720
     height: 480
