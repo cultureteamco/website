@@ -14,15 +14,20 @@ gallery:
   - image: blank-space/teaser-image-0-720x480.jpg
     width: 720
     height: 480
+    alt: Playdough creations from Culture Team's Playdough & Mime game.
   - image: blank-space/teaser-image-1-720x480.jpg
     width: 720
     height: 480
+    alt: Blankspace residents enjoying fun Christmas games with Culture Team.
   - image: blank-space/teaser-image-2-720x480.jpg
     width: 720
     height: 480
+    alt: Team building and drinking with fun Christmas games 
   - image: blank-space/teaser-image-3-720x480.jpg
     width: 720
     height: 480
+    alt: All hands in for our Playdough Towers team building game
+
 preview: The collective of freelancers at BlankSpace wanted an event to kick off their end of year Christmas party. A session with Culture Team would also be a great excuse to get to know each other better and encourage some friendly competition.
 quote: Kelly and Jeff made everything easy, delivering a workshop targeted to our office’s creative line of work. I was impressed with how their games and exercises tied into our ongoing projects.
 session:

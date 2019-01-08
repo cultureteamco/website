@@ -14,9 +14,11 @@ gallery:
   - image: aami/teaser-image-0-720x480.jpg
     width: 720
     height: 480
+	alt: AAMI staff participating in team communication activities
   - image: aami/teaser-image-1-720x480.jpg
     width: 720
     height: 480
+    alt: Employees at AAMI playing Dragon Golf
 preview: We built a session around teamwork and collaboration, with a goal to help everyone get to know each other better and have some fun.
 quote: Even the people who I thought mightn’t engage got into it!
 session:

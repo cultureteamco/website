@@ -14,9 +14,11 @@ gallery:
   - image: lsa/teaser-image-0-720x480.jpg
     width: 720
     height: 480
+    alt: LSA Staff building a better team
   - image: lsa/teaser-image-1-720x480.jpg
     width: 720
     height: 480
+    alt: Leadership-focused team building with the Lifetime Support Authority
 preview: We stepped in to help create a sense of togetherness and put focus on the importance of looking after one another.
 quote: The general consensus was that it wasn't like any team building they had done before.
 session:

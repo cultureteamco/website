@@ -1,9 +1,9 @@
 ---
 name: university-of-south-australia-people-talent-and-culture
-title: "University of South Australia: People, Talent & Culture | Culture Team"
+title: University of South Australia: People, Talent & Culture | Culture Team
 short-title: Uni SA People, Talent & Culture
 keywords: 
-  - "University of South Australia: People, Talent & Culture"
+  - University of South Australia: People, Talent & Culture
 meta: Read about the University of South Australia's People, Talent & Culture team's experience with working with Culture Team. Book your team building game today!
 sector: corporate
 categories:
@@ -13,15 +13,19 @@ gallery:
   - image: uni-sa-people-talent-and-culture/teaser-image-0-720x480.jpg
     width: 720
     height: 480
+    alt: A conflict resolution game with the HR team
   - image: uni-sa-people-talent-and-culture/teaser-image-1-720x480.jpg
     width: 720
     height: 480
+    alt: Employees having fun with conflict resolution and team building
   - image: uni-sa-people-talent-and-culture/teaser-image-2-720x480.jpg
     width: 720
     height: 480
+    alt: Team building with Culture Team's Cards vs Conflict game
   - image: uni-sa-people-talent-and-culture/teaser-image-3-720x480.jpg
     width: 720
     height: 480
+    alt: Creating trust at the beginning of Culture Team's conflict resolution session
 preview: This session was focused on conflict resolution. We used games to explore the messages we send beneath our words and to take a deeper look into our behaviour and our thoughts during conflict situations.
 quote: This sort of thing shows, that if you do have that time to discuss with other people and listen to their viewpoints, you actually come up with better outcomes.
 session:

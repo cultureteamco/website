@@ -10,6 +10,7 @@ image0:
   image: about-us/image-0-720x480.jpg
   width: 720
   height: 480
+  alt: Kelly and Jeff facilitating culture building activities
 ---
 {{>column-start}}
 

@@ -1,9 +1,12 @@
 ---
 name: university-of-adelaide-graduate-career-readiness
-title:
+title: University of Adelaide - Graduate Career Readiness | Culture Team
 short-title: University of Adelaide
 keywords:
-meta:
+ - University of Adelaide: Graduate Career Readiness 
+ - communication
+ - student team building
+meta: Culture Team worked with the University of Adelaide's Graduate Career Readiness students. Read more about their experience & book your game today!
 sector: education
 categories:
   - cat-all
@@ -12,12 +15,15 @@ gallery:
   - image: university-of-adelaide-graduate-career-readiness/teaser-image-0-720x480.jpg
     width: 720
     height: 480
+    alt: Student team building with communication games
   - image: university-of-adelaide-graduate-career-readiness/teaser-image-1-720x480.jpg
     width: 720
     height: 480
+    alt: Student team building with our Dragon Golf game
   - image: university-of-adelaide-graduate-career-readiness/teaser-image-2-720x480.jpg
     width: 720
     height: 480
+    alt: Students practicing conflict resolution with our Cards vs Conflict game
 preview: After establishing trust, enthusiasm and a good basis for communication, the students delved into some more difficult games themed around problem solving and conflict resolution.
 quote: Students reported it was the most fun they have had engaging in team games. 
 session:

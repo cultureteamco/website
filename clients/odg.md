@@ -14,15 +14,19 @@ gallery:
   - image: odg/teaser-image-0-720x480.jpg
     width: 720
     height: 480
+    alt: Strategic planning with playdough
   - image: odg/teaser-image-1-720x480.jpg
     width: 720
     height: 480
+    alt: Teamwork and leadership from the Office for Digital Government
   - image: odg/teaser-image-2-720x480.jpg
     width: 720
     height: 480
+    alt: Team building games eliciting team work during ODG's strategic planning day.
   - image: odg/teaser-image-3-720x480.jpg
     width: 720
     height: 480
+    alt: Leadership-focused team building games with the Office for Digital Government
 preview: The Office for Digital Government invited us to be a part of their strategic planning day. Once they’d learnt that we were able to slip into a quick meeting at short notice, we collaborated on a very meaningful set of outcomes.
 quote: It was seamless and super-efficient.
 session:
