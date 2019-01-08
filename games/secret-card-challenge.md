@@ -25,10 +25,12 @@ thumbnail:
   image: secret-card-challenge/thumbnail-256x256.jpg
   height: 256
   width: 256
+  alt: Secret Challenge Cards
 video:
   image: secret-challenge-cards/teaser-720x480.jpg
   width: 720
   height: 480
+  alt: Secret Challenge Cards
 goes-well-with:
   - name: yes-but-yes-and
   - name: happy-salmon

@@ -33,6 +33,7 @@ thumbnail:
   image: keep-talking-and-nobody-explodes/thumbnail-256x256.jpg
   width: 256
   height: 256
+  alt: Keep Talking
 video:
   source: keep-talking-and-nobody-explodes/teaser-720x404.mp4
   image: keep-talking-and-nobody-explodes/teaser-720x404.jpg

@@ -23,6 +23,7 @@ thumbnail:
   image: cards-vs-conflict/thumbnail-256x256.jpg
   width: 256
   height: 256
+  alt: Cards vs Conflict
 video:
   source: cards-vs-conflict/teaser-720x404.mp4
   image: cards-vs-conflict/teaser-720x404.jpg

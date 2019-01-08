@@ -10,10 +10,12 @@ jeff-and-kelly:
   image: our-story/jeff-and-kelly-720x720.jpg
   width: 720
   height: 720
+  alt: Culture Team founders, Jeff and Kelly
 test-club:
   image: our-story/test-club-1-720x480.jpg
   width: 720
   height: 480
+  alt: Test club game testers practice team building in Adelaide
 ---
 {{>column-start}}
 

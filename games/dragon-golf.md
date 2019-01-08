@@ -29,6 +29,7 @@ thumbnail:
   image: dragon-golf/thumbnail-256x256.jpg
   height: 256
   width: 256
+  alt: Dragon Golf
 video:
   source: dragon-golf/teaser-720x404.mp4
   image: dragon-golf/teaser-720x404.jpg

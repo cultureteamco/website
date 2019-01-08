@@ -27,6 +27,7 @@ thumbnail:
   image: betting-blocks/thumbnail-256x256.jpg
   height: 256
   width: 256
+  alt: Betting Blocks
 video:
   source: betting-blocks/teaser-720x404.mp4
   image: betting-blocks/teaser-720x404.jpg

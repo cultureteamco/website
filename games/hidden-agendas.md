@@ -31,6 +31,7 @@ thumbnail:
   image: hidden-agendas/thumbnail-256x256.jpg
   height: 256
   width: 256
+  alt: Hidden Agendas
 video:
   source: hidden-agendas/teaser-720x404.mp4
   image: hidden-agendas/teaser-720x404.jpg

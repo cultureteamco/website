@@ -22,18 +22,22 @@ cover:
   image: post-0003/image-1-720x480.jpg
   width: 720
   height: 480
+  alt: Creating a game to resolve conflict
 image1:
   image: post-0003/image-0-480x640.jpg
   width: 480
   height: 640
+  alt: Low fidelity testing of our conflict resolution game
 image2:
   image: post-0003/image-1-720x480.jpg
   width: 720
   height: 480
+  alt: Playing the conflict resolution game with our test club
 image3:
   image: post-0003/image-2-720x480.jpg
   width: 720
   height: 480
+  alt: Student team building and conflict resolution at University of Adelaide
 
 ---
 {{>column-start full=true}}

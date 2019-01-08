@@ -28,10 +28,12 @@ thumbnail:
   image: playdough-towers/thumbnail-256x256.jpg
   height: 256
   width: 256
+  alt: Playdough Towers
 video:
   image: playdough-towers/teaser-720x480.jpg
   width: 720
   height: 480
+  alt: Playdough Towers
 goes-well-with:
   - name: playdough-mime
 ---

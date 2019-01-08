@@ -27,10 +27,12 @@ thumbnail:
   image: blue-blue-blue/thumbnail-256x256.jpg
   width: 256
   height: 256
+  alt: Blue Blue Blue
 video:
   image: blue-blue-blue/teaser-720x480.jpg
   width: 720
   height: 480
+  alt: Blue Blue Blue communication game
 goes-well-with:
   - name: hidden-agendas
   - name: yes-but-yes-and

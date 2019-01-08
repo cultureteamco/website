@@ -17,14 +17,17 @@ cover:
   image: post-0001/image-1-640x480.jpg
   width: 640
   height: 480
+  alt: Learning from Failure
 image1:
   image: post-0001/image-1-640x480.jpg
   width: 640
   height: 480
+  alt: When things go wrong...
 image2:
   image: post-0001/image-0-640x480.jpg
   width: 640
   height: 480
+  alt: Turning failure into success
 ---
 {{>column-start full=true}}
 

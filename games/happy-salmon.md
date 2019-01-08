@@ -28,6 +28,7 @@ thumbnail:
   image: happy-salmon/thumbnail-256x256.jpg
   width: 256
   height: 256
+  alt: Happy Salmon
 video:
   source: happy-salmon/teaser-720x404.mp4
   image: happy-salmon/teaser-720x404.jpg

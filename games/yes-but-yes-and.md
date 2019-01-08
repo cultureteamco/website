@@ -31,6 +31,7 @@ thumbnail:
   image: yes-but-yes-and/thumbnail-256x256.jpg
   width: 256
   height: 256
+  alt: Yes, But... Yes, And...
 video:
   source: yes-but-yes-and/teaser-720x404.mp4
   image: yes-but-yes-and/teaser-720x404.jpg
