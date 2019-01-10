@@ -40,7 +40,7 @@ image1:
 
 Children are imaginative, innovative, they’re unafraid of failure, and they’re completely unashamed when it comes to sharing their strengths, weaknesses and ideas; no matter how bad they are. Working with junior primary aged children, I see it often and it seems to me that kids work better in group activities than most adults.  How do they make it look so natural, so effortless, when many of us find working with others a struggle? 
 
-###### What is it about the way that children interact that makes them so good at collaborative problem solving – and how, as adults, do we get that back?
+### What is it about the way that children interact that makes them so good at collaborative problem solving – and how, as adults, do we get that back?
 
 As a 6-year-old, Zane’s task is to work with three other children to create a poster of an Australian animal; the ‘Blue tongue lizard’. Zane has trouble reading and is afraid of using scissors. Now, a 35 year old in a similar position, might recognise these shortcomings and hide. Not Zane… 
 
@@ -48,7 +48,7 @@ Zane automatically picks up the information sheet and passes it to Sebastian, as
 
 Adults in a similar situation often aren’t as open or honest. Most of us would try our best to hide our weaknesses, trying to only showcase the best of ourselves, our strengths. Rather than learning to accept our weaknesses alongside our strengths, we prevent ourselves from growing as people and getting stronger together as a team.
 
-###### As adults, we don’t always acknowledge and deal with conflict as it arises. 
+### As adults, we don’t always acknowledge and deal with conflict as it arises. 
 
 I’m sure you can think of a time you’ve avoided conflict because it felt easier to hide from it than to confront the issue. It festers and starts to taint other interactions. If we could learn to communicate more openly and honestly when conflict rears up, as children do, we and our workplaces would be much better off.
 
@@ -81,7 +81,6 @@ _In my spare time, I’m a scout leader and I get to see and be a part of the wa
 {{>image image1}}
 
 If you're interested in improving openness, communication and teamwork, take a look at some of our {{>link link-game-category="cat-all" text="team building games"}}.
-
 
 {{>column-end}}
 

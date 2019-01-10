@@ -13,16 +13,16 @@ categories:
   - cat-all
   - cat-education
 gallery:
-  - image: uni-sa-careers-and-student-engagement/image-0-833x480.jpg
-    width: 833
+  - image: uni-sa-careers-and-student-engagement/image-0-720x480.jpg
+    width: 720
     height: 480
     alt: Student team building with communication games
-  - image: uni-sa-careers-and-student-engagement/image-2-720x480.jpg
+  - image: uni-sa-careers-and-student-engagement/image-1-720x480.jpg
     width: 720
     height: 480
     alt: Students working together with team building games  
-  - image: uni-sa-careers-and-student-engagement/image-0-833x480.jpg
-    width: 833
+  - image: uni-sa-careers-and-student-engagement/image-2-720x480.jpg
+    width: 720
     height: 480
     alt: Students practicing communication with fun team building games
 preview: We delivered a session to help students improve their communication skills. Students learnt to communicate effectively, work in a team environment and develop skills to better understand the people they interact with.
@@ -66,7 +66,7 @@ We delivered a session to help students improve their communication skills. Stud
 
 #### Testimonial
 
-Kelly and Jeff from CultureTeam delivered energetic game-based workshops as part of our student self-development programs. The games were well planned and executed and the enthusiasm of the facilitators added to the overall experience for the students. These workshops would be ideal during orientation or for activation activities where you’re looking to energise students or emphasise wellbeing. 
+Kelly and Jeff from Culture Team delivered energetic game-based workshops as part of our student self-development programs. The games were well planned and executed and the enthusiasm of the facilitators added to the overall experience for the students. These workshops would be ideal during orientation or for activation activities where you’re looking to energise students or emphasise wellbeing. 
 
 * Rosslyn Cox, Coordinator Student Leadership
 
