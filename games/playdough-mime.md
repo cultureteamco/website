@@ -38,7 +38,7 @@ thumbnail:
   width: 256
   alt: Playdough & Mime
 video:
-  source: playdough-mime/teaser-720x404.mp4
+  loop: playdough-mime/teaser-720x404.mp4
   image: playdough-mime/teaser-720x404.jpg
   width: 720
   height: 404

@@ -33,7 +33,7 @@ thumbnail:
   height: 256
   alt: Yes, But... Yes, And...
 video:
-  source: yes-but-yes-and/teaser-720x404.mp4
+  loop: yes-but-yes-and/teaser-720x404.mp4
   image: yes-but-yes-and/teaser-720x404.jpg
   width: 720
   height: 404
