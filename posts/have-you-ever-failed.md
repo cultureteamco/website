@@ -39,7 +39,7 @@ image2:
 
 #### Have you ever failed?
 
-Ha! Of course you have! You’re human. Or, you’re a computer scanning this page, in which case,you’re pretty likely to have failed at some point too. The real question is; what did you do with that failure?
+Ha! Of course you have! You’re human. Or, you’re a computer scanning this page, in which case, you’re pretty likely to have failed at some point too. The real question is; what did you do with that failure?
 
 ### Six months ago, I failed pretty badly.
 

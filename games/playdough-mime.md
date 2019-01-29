@@ -6,7 +6,7 @@ keywords:
   - Playdough & Mime Game
   - Communication Skills Activities
 meta: Culture Team have a range of communication skills activities including the Playdough & Mime game. Solve a problem with the power of playdough today!
-synopsis: Solve a problem with the power of playdough, think about the core them, then present it... but there’s a catch.
+synopsis: Solve a problem with the power of playdough, think about the core theme, then present it... but there’s a catch.
 duration: 20-45 mins
 quote: The game that bonded me with my team the most and was my favourite game of the session.
 other-quotes:
