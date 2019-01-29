@@ -38,6 +38,11 @@ image3:
   width: 720
   height: 480
   alt: Student team building and conflict resolution at University of Adelaide
+image4:
+  image: post-0003/image-3-720x480.jpg
+  width: 720
+  height: 480
+  alt: Kelly Carpenter, Co-Founder
 
 ---
 {{>column-start full=true}}
@@ -45,6 +50,9 @@ image3:
 ## Creating a Game to Resolve Conflict
 
 {{>post-overview}}
+{{>column-end}}
+
+{{>column-start}}
 
 #### Creating new games can be a long process. Usually, we start with a premise. Often, in the beginning, we would start at the kitchen table.
 
@@ -81,12 +89,14 @@ We had vertical text, we had synonyms, we had multiple decks for multiple groups
 
 We can’t wait to take this game to greater heights and provide the best possible experience for each person that plays it.
 
-##### _Written by Kelly Carpenter, Co-Founder_ 
 
-If you’re interested in testing {{>link link-game="cards-vs-conflict" text="Cards vs Conflict"}} as a facilitate-it-yourself card game, we’d love to hear from you!
 
 {{>column-end}}
 
-{{>column-start full=true}}
+{{>column-start}}
+{{>image image4}}
 
+##### _Written by Kelly Carpenter, Co-Founder_ 
+
+If you’re interested in testing {{>link link-game="cards-vs-conflict" text="Cards vs Conflict"}} as a facilitate-it-yourself card game, we’d love to hear from you!
 {{>column-end}}

@@ -34,6 +34,8 @@ image2:
 ## How to turn Failure into Success
 
 {{>post-overview}}
+{{>column-end}}
+{{>column-start}}
 
 #### Have you ever failed?
 
@@ -59,22 +61,20 @@ Again, we got positive feedback, which, if judged in comparison to the other off
 
 This is how experiential learning sticks; we have memories, emotions, tangible experiences to tie the lesson to!
 
-### That day, we counted 40 things that went wrong. 
+That day, we counted 40 things that went wrong. You know what that means? 40 new successes on the horizon.
 
-{{>image image1}}
-
-### You know what that means? 40 new successes on the horizon.
-
-{{>image image2}}
 
 Our worst session ever proved to be a very fruitful experience.
 
 ### So, what are you going to do with your next failure?
 
-##### _Written by Kelly Carpenter, Founder_ 
-
 {{>column-end}}
 
-{{>column-start full=true}}
+{{>column-start}}
+{{>image image1}}
+
+{{>image image2}}
+
+##### _Written by Kelly Carpenter, Founder_ 
 
 {{>column-end}}
