@@ -19,9 +19,17 @@ video:
 {{>column-end}}
 
 {{>column-start}}
-We bridge the gap between engaging fun and meaningful learning with our custom-tailored team building experiences. We learn about your team and use a human-centred design approach create brand-new, thoughtfully designed games sessions.
+At Culture Team, we bridge the gap between engaging fun and meaningful learning with our custom-tailored team building experiences. 
+
+We learn about your team and use a human-centred design approach to create brand-new, thoughtfully designed game sessions.
 
 Our short, on-site sessions maximise productivity and bring a fun, positive atmosphere into the office, transforming it into a space for team culture to flourish.
+
+We take the effort out of team-building events by delivering our content on-site, so that all your staff need to do is walk in.
+
+We're believe there should be balance for your team. We deliver sessions that are fun and engaging that participants can also walk away from with tangible learning outcomes.
+
+If you've ever come away from a team building session cringing, we hear you! Ask our participants what they think - especially the ones that used to hate team building games - check out the video.
 
 {{>column-end}}
 
@@ -31,7 +39,11 @@ Our short, on-site sessions maximise productivity and bring a fun, positive atmo
 
 {{>video}}
 
-{{>link link-page="our-difference" text="What makes Culture Team Different? >"}}
+{{>link link-page="our-difference" text="What makes Culture Team different? >"}}
+
+{{>clearfix phone=true}}
+
+{{>link link-page="our-system" text="Check out the Culture Team System >"}}
 
 {{>clearfix phone=true}}
 
