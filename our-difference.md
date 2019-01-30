@@ -7,10 +7,13 @@ keywords:
   - Corporate Team Bonding
 meta: The Culture Team Difference is to provide tailor-made, fun, corporate team bonding sessions with a human-centred approach. Get in touch today!
 ---
-{{>column-start}}
+{{>column-start full=true}}
 
 ## What Makes Culture Team Different?
 
+{{>column-end}}
+
+{{>column-start}}
 #### We come to you.
 Culture Team sessions are held at your office. By creating a safe space for staff to be bold, trust one another, learn from failures and let their guard down, we leave a lasting impression on the culture within the workplace. Teams can play games, then apply that energy to their work the very same day.
 

@@ -11,7 +11,7 @@ meta: Culture Team's mission is to infect individuals with a team mindset. Cultu
 
 ## Our Purpose
 
-### We are on a mission to infect individuals with a team mindset.
+#### We are on a mission to infect individuals with a team mindset.
 
 {{>column-end}}
 

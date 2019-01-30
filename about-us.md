@@ -12,9 +12,12 @@ image0:
   height: 480
   alt: Kelly and Jeff facilitating culture building activities
 ---
-{{>column-start}}
+{{>column-start full=true}}
 
 ## About Us
+{{>column-end}}
+
+{{>column-start}}
 
 Culture Team is on a mission to infect every individual with a team mindset. Considering others, being mindful of our impact and intentional in our influence, and sharing openly are at the core of a team mindset. When individuals operate within a team, we help each other. We feel less isolated, less helpless.
 
