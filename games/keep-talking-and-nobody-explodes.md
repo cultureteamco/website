@@ -57,7 +57,7 @@ Every session is different. This game can open up discussion for numerous differ
 * Shared Communication Modes
   * The key to any team communicating effectively and efficiently is developing a shared language early on and understanding what information is important.
 * Cross-Departmental Understanding
-  * The bomb defuser sees things completely differently to the bomb experts; 3D rather than 2D,colour rather than monochrome, intuition rather than words; having both sides come to realise their own biases and limitations opens them up to being more empathetic toward the rest of their team.
+  * The bomb defuser sees things completely differently to the bomb experts; 3D rather than 2D, colour rather than monochrome, intuition rather than words; having both sides come to realise their own biases and limitations opens them up to being more empathetic toward the rest of their team.
 
 {{>link link-contact-game="keep-talking-and-nobody-explodes" text="Ask us about the other outcomes related to this game."}}
 
