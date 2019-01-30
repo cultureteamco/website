@@ -61,6 +61,11 @@ Every session is different. This game can open up discussion for numerous differ
 
 {{>link link-contact-game="keep-talking-and-nobody-explodes" text="Ask us about the other outcomes related to this game."}}
 
+#### Extension options
+
+* Leadership Edition
+  * Larger teams must work together and share information to defuse multiple bombs.
+
 {{>column-end}}
 
 {{>column-start highlight=true}}
