@@ -30,14 +30,17 @@ image1:
   height: 480
   alt: Simone Beeson, Creative Writer
 ---
+
 {{>column-start full=true}}
 
 ## Why are Children Better at Teamwork?
 
 {{>post-overview}}
+
 {{>column-end}}
 
 {{>column-start}}
+
 #### What is it about the way that children work together that makes them so successful at teamwork? 
 
 Children are imaginative, innovative, they’re unafraid of failure, and they’re completely unashamed when it comes to sharing their strengths, weaknesses and ideas; no matter how bad they are. Working with junior primary aged children, I see it often and it seems to me that kids work better in group activities than most adults.  How do they make it look so natural, so effortless, when many of us find working with others a struggle? 
@@ -76,11 +79,10 @@ We can glean more on how we as adults can learn from children in Tom Wujec’s T
 
 As adults, maybe we can re-learn how to be open and communicate better with each other, to accept our own strengths and weaknesses, and to recognise and support others by following the example of children. Could it be this simple? I don’t see why it shouldn’t be! Team building games can bring us back to that openness and willingness that we had as children. Maybe if we played more often, we too could be better communicators and team players.
 
-
-
 {{>column-end}}
 
 {{>column-start}}
+
 {{>image image1}}
 
 ##### _Written by Simone Beeson, Creative Writer_ 
@@ -88,4 +90,5 @@ As adults, maybe we can re-learn how to be open and communicate better with each
 _In my spare time, I’m a scout leader and I get to see and be a part of the ways children interact and communicate with each other. They have taught me how to let go of negative emotions and accept my weaknesses. I have learnt to be a better communicator because of them and it’s something I am thankful for._
 
 If you're interested in improving openness, communication and teamwork, take a look at some of our {{>link link-game-category="cat-all" text="team building games"}}.
+
 {{>column-end}}

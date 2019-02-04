@@ -29,12 +29,15 @@ image2:
   height: 480
   alt: Turning failure into success
 ---
+
 {{>column-start full=true}}
 
 ## How to turn Failure into Success
 
 {{>post-overview}}
-{{>column-end}}
+
+{{column-end}}
+
 {{>column-start}}
 
 #### Have you ever failed?
@@ -71,6 +74,7 @@ Our worst session ever proved to be a very fruitful experience.
 {{>column-end}}
 
 {{>column-start}}
+
 {{>image image1}}
 
 {{>image image2}}

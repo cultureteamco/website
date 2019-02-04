@@ -19,6 +19,7 @@ video:
 {{>column-end}}
 
 {{>column-start}}
+
 At Culture Team, we bridge the gap between engaging fun and meaningful learning with our custom-tailored team building experiences. 
 
 We learn about your team and use a human-centred design approach to create brand-new, thoughtfully designed game sessions.

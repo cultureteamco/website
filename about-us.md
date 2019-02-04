@@ -15,6 +15,7 @@ image0:
 {{>column-start full=true}}
 
 ## About Us
+
 {{>column-end}}
 
 {{>column-start}}

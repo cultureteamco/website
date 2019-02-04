@@ -16,6 +16,7 @@ meta: The Culture Team System is designed to ensure maximum engagement with uniq
 {{>column-end}}
 
 {{>column-start}}
+
 #### 1. We learn about your team, the challenges they face and the outcomes that they need.
 
 We don’t apply a cookie-cutter to your team, we let their needs shape what the session will become.

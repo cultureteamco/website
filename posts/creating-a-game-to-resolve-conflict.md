@@ -45,11 +45,13 @@ image4:
   alt: Kelly Carpenter, Co-Founder
 
 ---
+
 {{>column-start full=true}}
 
 ## Creating a Game to Resolve Conflict
 
 {{>post-overview}}
+
 {{>column-end}}
 
 {{>column-start}}
@@ -89,14 +91,14 @@ We had vertical text, we had synonyms, we had multiple decks for multiple groups
 
 We can’t wait to take this game to greater heights and provide the best possible experience for each person that plays it.
 
-
-
 {{>column-end}}
 
 {{>column-start}}
+
 {{>image image4}}
 
 ##### _Written by Kelly Carpenter, Co-Founder_ 
 
 If you’re interested in testing {{>link link-game="cards-vs-conflict" text="Cards vs Conflict"}} as a facilitate-it-yourself card game, we’d love to hear from you!
+
 {{>column-end}}

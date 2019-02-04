@@ -24,6 +24,7 @@ test-club:
 {{>column-end}}
 
 {{>column-start}}
+
 With backgrounds in business, hospitality and the arts, Jeff and Kelly were drawn to one another’s openness, vibrancy and interest in others when they first met as mature-aged students studying product design at UniSA. A half hour before their very first lecture, Jeff noticed that all of the students were nervously looking at their phones or avoiding each other’s eye contact. Jeff decided to speak up then and there, to engage the students with each other. He put up his hand in a wave and called out “Hey everyone, I’m Jeff, I’m a student like you and I figure we should all get to know one another”. He then gathered everyone up for introductions and discovered the value of early engagement.
 
 Following this, Jeff found great satisfaction leading team building initiatives in his work and extra-curricular studies. He relished in the success of improving relationships between leaders and helping first-year students create new bonds.
