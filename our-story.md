@@ -37,18 +37,19 @@ Jeff’s achievements resonated with Kelly, who had come from a career in the fi
 
 {{>image jeff-and-kelly}}
 
-{{>column-start full=true}}
-
 {{>column-end}}
 
+{{>clearfix}}
+
 {{>column-start}}
+
 {{>image test-club}}
 
 {{>column-end}}
 
 {{>column-start}}
-Game development is a problem solving process that pulls together many different disciplines. First, we find out as much as we can about a problem. Then, we research the root of the problem and any existing systems used to solve that problem. The delivery of the games’ outcomes and facilitation of discussion is shaped using psychology and business theory. The game evolves throughout the design process, with rigorous testing. Our group of testers are excited about team building in Adelaide. They meet regularly to help us embrace failure and improve from experience. There have been many people involved in our story so far, we would love for you to be one of them.
 
+Game development is a problem solving process that pulls together many different disciplines. First, we find out as much as we can about a problem. Then, we research the root of the problem and any existing systems used to solve that problem. The delivery of the games’ outcomes and facilitation of discussion is shaped using psychology and business theory. The game evolves throughout the design process, with rigorous testing. Our group of testers are excited about team building in Adelaide. They meet regularly to help us embrace failure and improve from experience. There have been many people involved in our story so far, we would love for you to be one of them.
 
 {{>link link-page="our-process" text="Learn about our process >"}}
 
