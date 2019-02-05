@@ -36,7 +36,7 @@ image2:
 
 {{>post-overview}}
 
-{{column-end}}
+{{>column-end}}
 
 {{>column-start}}
 
