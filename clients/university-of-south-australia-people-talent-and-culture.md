@@ -9,6 +9,7 @@ sector: corporate
 categories:
   - cat-all
   - cat-corporate
+
 gallery:
   - image: uni-sa-people-talent-and-culture/teaser-image-0-720x480.jpg
     width: 720
