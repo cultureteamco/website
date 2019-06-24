@@ -60,7 +60,6 @@ goes-well-with:
 
 {{>link link-contact-game="silo-stack" text="Ask us about the other outcomes related to this game."}}
 
-#### Extension option
 
 {{>column-end}}
 
