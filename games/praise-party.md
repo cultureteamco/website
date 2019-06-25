@@ -14,10 +14,8 @@ keywords:
   - Colleagues
 meta: Culture Team's Praise Party is a fun gratitude game where players communicate positivity and give thanks to workplace colleagues in a safe space. Contact us today to find out more! 
 synopsis: Sitting in groups, players practice appreciation as they work through a deck of compliments. For each praise card, every player makes an argument as to who deserves that praise and why. 
-
 duration: 15-30min 
 quote: It was a really great chance to let some people in the office know they are appreciated for everything they do. 
-
 gameplay: 
   - cards
 outcomes:

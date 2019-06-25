@@ -11,11 +11,8 @@ meta: Culture Team's Silo Stack is a collaborative, building  game that is an ex
 synopsis: Players break out of their silos and collaborate on an impressive structure!
 duration: 30-45min 
 quote: When building the tower everyone got to contribute and we were able to achieve a goal as a team
-
 other-quotes:
-
-Everyone was very considerate in the tower challenge - great teamwork!
-
+  - Everyone was very considerate in the tower challenge - great teamwork!
 gameplay: 
   - bricks
 outcomes:
