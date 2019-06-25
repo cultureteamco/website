@@ -54,12 +54,10 @@ goes-well-with:
 
 * Genuine Gratitude
   * Players have a chance to speak their truth in a safe and healthy space. Having to justify their reason for praise emphasises the genuineness to the statements.
-
 * Self-Gratitude
   * This game provides an opportunity to speak up about their hard efforts. It encourages players to back themselves as much as appreciating others.
 
 {{>link link-contact-game="praise-party" text="Ask us about the other outcomes related to this game."}}
-
 
 {{>column-end}}
 
